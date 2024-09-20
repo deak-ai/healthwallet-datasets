@@ -1,0 +1,4742 @@
+{
+  "entry": [
+    {
+      "fullUrl": "urn:uuid:fc8a1633-94fe-4b3b-b260-57b80828a1a1",
+      "resource": {
+        "author": [
+          {
+            "reference": "urn:uuid:801f7b15-de38-423c-a2d2-8e05b7ef0eca"
+          }
+        ],
+        "confidentiality": "N",
+        "date": "2024-09-20T16:04:58.501+02:00",
+        "resourceType": "Composition",
+        "section": [
+          {
+            "code": {
+              "coding": [
+                {
+                  "code": "48765-2",
+                  "display": "Allergies and adverse reactions Document",
+                  "system": "http://loinc.org"
+                }
+              ]
+            },
+            "entry": [
+              {
+                "reference": "urn:uuid:5c24d78a-2ee0-4826-8580-bcf4f063fcb6"
+              }
+            ],
+            "title": "Allergies and Intolerances"
+          },
+          {
+            "code": {
+              "coding": [
+                {
+                  "code": "10160-0",
+                  "display": "History of Medication use Narrative",
+                  "system": "http://loinc.org"
+                }
+              ]
+            },
+            "entry": [
+              {
+                "reference": "urn:uuid:bd126702-6f96-40c6-ae9d-f97b5f355ccc"
+              }
+            ],
+            "title": "Medication List"
+          },
+          {
+            "code": {
+              "coding": [
+                {
+                  "code": "11450-4",
+                  "display": "Problem list - Reported",
+                  "system": "http://loinc.org"
+                }
+              ]
+            },
+            "entry": [
+              {
+                "reference": "urn:uuid:8eac2b71-c3d3-4e36-9af8-a13114121ccf"
+              }
+            ],
+            "title": "Problem List"
+          },
+          {
+            "code": {
+              "coding": [
+                {
+                  "code": "11369-6",
+                  "display": "History of Immunization Narrative",
+                  "system": "http://loinc.org"
+                }
+              ]
+            },
+            "entry": [
+              {
+                "reference": "urn:uuid:db0f1bdc-89cd-4f84-b65b-964ac2708b5c"
+              },
+              {
+                "reference": "urn:uuid:7a5701bc-cb54-4eaa-a8e9-c3826fd1059b"
+              },
+              {
+                "reference": "urn:uuid:e0250885-a524-41f7-b3f7-00c02da02c82"
+              },
+              {
+                "reference": "urn:uuid:0dfad4ea-ba20-453d-b58b-ca5821a471f5"
+              }
+            ],
+            "title": "History of Immunizations"
+          },
+          {
+            "code": {
+              "coding": [
+                {
+                  "code": "47519-4",
+                  "display": "History of Procedures Document",
+                  "system": "http://loinc.org"
+                }
+              ]
+            },
+            "entry": [
+              {
+                "reference": "urn:uuid:dd3a62cc-6dd9-43af-bee9-e4c5561f51cd"
+              },
+              {
+                "reference": "urn:uuid:f9236e92-261b-4727-a14b-e9f94d329946"
+              },
+              {
+                "reference": "urn:uuid:06e322c1-00eb-4479-8ebb-5dbc64710606"
+              },
+              {
+                "reference": "urn:uuid:443cc219-368d-4f8a-bcdc-1ef0ad8b84d3"
+              }
+            ],
+            "title": "History of Procedures"
+          },
+          {
+            "code": {
+              "coding": [
+                {
+                  "code": "30954-2",
+                  "display": "Relevant diagnostic tests/laboratory data Narrative",
+                  "system": "http://loinc.org"
+                }
+              ]
+            },
+            "entry": [
+              {
+                "reference": "urn:uuid:0ef25695-07eb-4aee-9d6b-4de4a2ba3cbc"
+              },
+              {
+                "reference": "urn:uuid:ada51f1e-fae7-4846-a7c0-74d1c5449f6d"
+              },
+              {
+                "reference": "urn:uuid:6a55b2b4-7321-4001-9f4c-595153e9dcbb"
+              },
+              {
+                "reference": "urn:uuid:3af482e8-5fd2-478e-a880-3827ccaaedb4"
+              },
+              {
+                "reference": "urn:uuid:fd6e3f83-4888-420c-a48f-28efacb3830e"
+              },
+              {
+                "reference": "urn:uuid:183322dd-9291-46a8-8eae-4ed553499957"
+              },
+              {
+                "reference": "urn:uuid:cc04de8d-e9ff-4454-b881-def1665be0ad"
+              },
+              {
+                "reference": "urn:uuid:8984f34d-2cd4-412e-802a-4a6e1a02ec89"
+              },
+              {
+                "reference": "urn:uuid:a22c5a98-6b0e-428a-b1b7-3ef009a80d7a"
+              },
+              {
+                "reference": "urn:uuid:fdfa5568-9130-4db1-bd93-212f29b68e2a"
+              },
+              {
+                "reference": "urn:uuid:b11bc1bb-6e24-446d-b0a1-a290e9c65ab3"
+              },
+              {
+                "reference": "urn:uuid:7877fe27-fd92-475c-8d29-442a818d5cfb"
+              },
+              {
+                "reference": "urn:uuid:b99391e1-73b4-4f90-8f36-247060439c1d"
+              },
+              {
+                "reference": "urn:uuid:22545a47-56bf-4935-91f6-b30cc9eb8e72"
+              },
+              {
+                "reference": "urn:uuid:0341f87d-b94c-4f74-adb8-44d70e5d7683"
+              },
+              {
+                "reference": "urn:uuid:71154d02-692e-4778-809d-f7cca5aa4a16"
+              },
+              {
+                "reference": "urn:uuid:c2e8b9e9-f3ab-4fbb-9df8-56f0363d134c"
+              },
+              {
+                "reference": "urn:uuid:e514f02c-6bcf-4575-bcd2-407de108d57b"
+              },
+              {
+                "reference": "urn:uuid:56245ba9-1198-4fb2-ac0e-6af00ccce026"
+              },
+              {
+                "reference": "urn:uuid:4243925d-2a7a-427b-acdb-f4e8eccd8c17"
+              },
+              {
+                "reference": "urn:uuid:ed9f277b-50e9-419c-8571-7fb00f73a894"
+              },
+              {
+                "reference": "urn:uuid:fe3662cc-9788-4e7b-83d2-00f1dd673f18"
+              },
+              {
+                "reference": "urn:uuid:cb7a1c56-ddd4-41a6-b894-e3e01d4be0ac"
+              },
+              {
+                "reference": "urn:uuid:58c812b5-a051-486c-ac70-ce3676f8d39c"
+              },
+              {
+                "reference": "urn:uuid:043e8183-d067-4ded-95d7-bfa4fe121d7d"
+              },
+              {
+                "reference": "urn:uuid:4631afbd-ca2e-458e-a0cb-1172a0d5c46e"
+              },
+              {
+                "reference": "urn:uuid:1b895054-d222-4d97-8c70-e64e144efece"
+              },
+              {
+                "reference": "urn:uuid:e3d94f6a-0463-41f5-93d0-7f2209899a3e"
+              },
+              {
+                "reference": "urn:uuid:60c45794-ab7f-4aec-8c3a-2df3c4878605"
+              },
+              {
+                "reference": "urn:uuid:06091ffa-9bf9-4412-b073-5a6287e7230f"
+              },
+              {
+                "reference": "urn:uuid:e2eec6b1-79c9-4a65-ad04-c3480a3b7e9c"
+              },
+              {
+                "reference": "urn:uuid:fe918c00-9e20-47bc-b479-6f45bda35b72"
+              },
+              {
+                "reference": "urn:uuid:901bd102-9482-4257-954c-2ee99f4e4fd7"
+              }
+            ],
+            "title": "Diagnostic Results"
+          },
+          {
+            "code": {
+              "coding": [
+                {
+                  "code": "8716-3",
+                  "display": "Vital signs",
+                  "system": "http://loinc.org"
+                }
+              ]
+            },
+            "entry": [
+              {
+                "reference": "urn:uuid:e65eb4ed-e0cd-4705-82bf-70dd496316f1"
+              },
+              {
+                "reference": "urn:uuid:2b2893fe-1b68-426a-ab01-edc938bdfd1e"
+              },
+              {
+                "reference": "urn:uuid:c0085819-802c-46a4-a28a-b8bb8fa43299"
+              },
+              {
+                "reference": "urn:uuid:2a818b0f-926b-4e72-b700-06256073dd17"
+              },
+              {
+                "reference": "urn:uuid:ac84bd81-b47a-4687-8f05-7de47a949c43"
+              },
+              {
+                "reference": "urn:uuid:45e0f17e-c8ea-42f7-adde-62ea9c1906ad"
+              },
+              {
+                "reference": "urn:uuid:2e12f190-ad6d-49fc-bfcf-93da53f73665"
+              },
+              {
+                "reference": "urn:uuid:dad6debb-c271-403c-9b59-6e0eceb86a93"
+              },
+              {
+                "reference": "urn:uuid:7c286f5a-9b2c-496b-9ab4-14acf1fd2ce6"
+              },
+              {
+                "reference": "urn:uuid:9ca2ccec-15b2-481a-8fc6-132f1a148522"
+              },
+              {
+                "reference": "urn:uuid:54dc888e-9284-4d25-8545-af6bbbc5731b"
+              },
+              {
+                "reference": "urn:uuid:df060b84-3de0-44fb-93ac-72a353ed5b60"
+              },
+              {
+                "reference": "urn:uuid:37c22062-94d0-4c43-aad3-6f7057ed4882"
+              },
+              {
+                "reference": "urn:uuid:ec6a0a37-1ea3-4102-883a-39f27847a92e"
+              },
+              {
+                "reference": "urn:uuid:ed30cbd1-a982-4ae4-84f9-bb3cf469a8fe"
+              },
+              {
+                "reference": "urn:uuid:a5329571-1100-497c-add3-413dd14a36f4"
+              },
+              {
+                "reference": "urn:uuid:185baede-00ff-4cf6-a4b5-0dd886c3b258"
+              },
+              {
+                "reference": "urn:uuid:344c874f-71db-4652-ac97-c6272aacfa24"
+              },
+              {
+                "reference": "urn:uuid:cecc4b26-687c-45f3-8260-721f5363ab54"
+              },
+              {
+                "reference": "urn:uuid:9fc41bf9-a607-47b7-84d5-1d313b55d4a4"
+              },
+              {
+                "reference": "urn:uuid:ad732e67-5ce4-4b6b-b208-85b61055c514"
+              },
+              {
+                "reference": "urn:uuid:53f9425a-75e0-4fb4-b6ca-9a5a3465df54"
+              },
+              {
+                "reference": "urn:uuid:9f69e867-7803-484f-941d-d0d3efce29b6"
+              },
+              {
+                "reference": "urn:uuid:c6a70418-824c-48f5-89bb-73cb85d106db"
+              },
+              {
+                "reference": "urn:uuid:7d481dd7-6d5f-42f6-acad-dd2945ce54d1"
+              },
+              {
+                "reference": "urn:uuid:916a3056-6641-48d0-b203-829d2abca5d1"
+              },
+              {
+                "reference": "urn:uuid:40bc37c2-64bc-4636-b09a-d182241c8420"
+              }
+            ],
+            "title": "Vital Signs"
+          },
+          {
+            "code": {
+              "coding": [
+                {
+                  "code": "11348-0",
+                  "display": "History of Past illness Narrative",
+                  "system": "http://loinc.org"
+                }
+              ]
+            },
+            "entry": [
+              {
+                "reference": "urn:uuid:7516afe6-8a8d-4abe-ade6-308416c90417"
+              },
+              {
+                "reference": "urn:uuid:640bc168-d483-43a3-92b6-ea4cba18c031"
+              },
+              {
+                "reference": "urn:uuid:9e992233-117d-4c3f-9734-11608d1bfef5"
+              },
+              {
+                "reference": "urn:uuid:d051f023-8a66-456b-b624-df8fc7178974"
+              },
+              {
+                "reference": "urn:uuid:190795cc-3b61-4c48-9f09-82f6e437eb6d"
+              },
+              {
+                "reference": "urn:uuid:af5a0ae6-9d7f-4a2c-810b-c253f4831034"
+              },
+              {
+                "reference": "urn:uuid:6f7ce40f-e570-4b27-b0e5-0e67e2b4f803"
+              },
+              {
+                "reference": "urn:uuid:d5247b98-2eb5-4ae9-9e3f-92e791412bb1"
+              },
+              {
+                "reference": "urn:uuid:f74441fc-5e2c-462d-a5fa-01bb2f1fcf23"
+              }
+            ],
+            "title": "History of Past Illness"
+          },
+          {
+            "code": {
+              "coding": [
+                {
+                  "code": "18776-5",
+                  "display": "Plan of care note",
+                  "system": "http://loinc.org"
+                }
+              ]
+            },
+            "entry": [
+              {
+                "reference": "urn:uuid:3afdcba3-5262-4bde-8122-905ee6a40e44"
+              }
+            ],
+            "title": "Plan of Care"
+          }
+        ],
+        "status": "final",
+        "subject": {
+          "reference": "urn:uuid:80fadea3-ab7c-492e-ac9d-bf8dc22f5afa"
+        },
+        "text": {
+          "div": "<div xmlns=\"http://www.w3.org/1999/xhtml\"><div><h1>Allergies and Intolerances</h1><div><div><table class=\"hapiPropertyTable\"><caption>Allergies And Intolerances</caption><thead><tr><th>Allergen</th><th>Status</th><th>Category</th><th>Reaction</th><th>Severity</th><th>Comments</th><th>Onset</th></tr></thead><tbody><tr id=\"AllergyIntolerance-urn:uuid:5c24d78a-2ee0-4826-8580-bcf4f063fcb6\"><td> No information about allergies </td><td> active </td><td></td><td></td><td></td><td></td><td></td></tr></tbody></table></div></div></div><div><h1>Medication List</h1><div><div><table class=\"hapiPropertyTable\"><caption>Medication Summary: Medication Requests</caption><thead><tr><th>Medication</th><th>Status</th><th>Route</th><th>Sig</th><th>Comments</th><th>Authored Date</th></tr></thead><tbody></tbody></table><table class=\"hapiPropertyTable\"><caption>Medication Summary: Medication Statements</caption><thead><tr><th>Medication</th><th>Status</th><th>Route</th><th>Sig</th><th>Date</th></tr></thead><tbody><tr id=\"MedicationStatement-urn:uuid:bd126702-6f96-40c6-ae9d-f97b5f355ccc\"><td> No information about medications </td><td>Unknown</td><td></td><td></td><td></td></tr></tbody></table></div></div></div><div><h1>Problem List</h1><div><div><table class=\"hapiPropertyTable\"><caption>Problem List</caption><thead><tr><th>Medical Problems</th><th>Status</th><th>Comments</th><th>Onset Date</th></tr></thead><tbody><tr id=\"Condition-urn:uuid:8eac2b71-c3d3-4e36-9af8-a13114121ccf\"><td> Prediabetes </td><td> active </td><td></td><td> Fri Feb 24 17:25:24 CET 2023 </td></tr></tbody></table></div></div></div><div><h1>History of Immunizations</h1><div><div><table class=\"hapiPropertyTable\"><caption>Immunizations</caption><thead><tr><th>Immunization</th><th>Status</th><th>Dose Number</th><th>Manufacturer</th><th>Lot Number</th><th>Comments</th><th>Date</th></tr></thead><tbody><tr id=\"Immunization-urn:uuid:db0f1bdc-89cd-4f84-b65b-964ac2708b5c\"><td> Influenza, seasonal, injectable, preservative free </td><td>COMPLETED</td><td></td><td></td><td></td><td></td><td> Fri Feb 24 17:25:24 CET 2023 </td></tr><tr id=\"Immunization-urn:uuid:7a5701bc-cb54-4eaa-a8e9-c3826fd1059b\"><td> Influenza, seasonal, injectable, preservative free </td><td>COMPLETED</td><td></td><td></td><td></td><td></td><td> Fri Feb 21 17:25:24 CET 2020 </td></tr><tr id=\"Immunization-urn:uuid:e0250885-a524-41f7-b3f7-00c02da02c82\"><td> Influenza, seasonal, injectable, preservative free </td><td>COMPLETED</td><td></td><td></td><td></td><td></td><td> Fri Feb 17 17:25:24 CET 2017 </td></tr><tr id=\"Immunization-urn:uuid:0dfad4ea-ba20-453d-b58b-ca5821a471f5\"><td> Td (adult) preservative free </td><td>COMPLETED</td><td></td><td></td><td></td><td></td><td> Fri Feb 17 17:25:24 CET 2017 </td></tr></tbody></table></div></div></div><div><h1>History of Procedures</h1><div><div><table class=\"hapiPropertyTable\"><caption>History Of Procedures</caption><thead><tr><th>Procedure</th><th>Comments</th><th>Date</th></tr></thead><tbody><tr id=\"Procedure-urn:uuid:dd3a62cc-6dd9-43af-bee9-e4c5561f51cd\"><td> Medication Reconciliation (procedure) </td><td></td><td> Fri Feb 17 17:25:24 CET 2017-Fri Feb 17 17:40:24 CET 2017 </td></tr><tr id=\"Procedure-urn:uuid:f9236e92-261b-4727-a14b-e9f94d329946\"><td> Face mask (physical object) </td><td></td><td> Mon Mar 09 17:25:24 CET 2020-Mon Mar 09 17:36:24 CET 2020 </td></tr><tr id=\"Procedure-urn:uuid:06e322c1-00eb-4479-8ebb-5dbc64710606\"><td> Medication Reconciliation (procedure) </td><td></td><td> Fri Feb 24 17:25:24 CET 2023-Fri Feb 24 17:40:24 CET 2023 </td></tr><tr id=\"Procedure-urn:uuid:443cc219-368d-4f8a-bcdc-1ef0ad8b84d3\"><td> Suture open wound </td><td></td><td> Thu Jul 20 18:25:24 CEST 2023-Thu Jul 20 18:41:24 CEST 2023 </td></tr></tbody></table></div></div></div><div><h1>Diagnostic Results</h1><div><div><table class=\"hapiPropertyTable\"><caption>Diagnostic Results: Observations</caption><thead><tr><th>Code</th><th>Result</th><th>Unit</th><th>Interpretation</th><th>Reference Range</th><th>Comments</th><th>Date</th></tr></thead><tbody><tr id=\"Observation-urn:uuid:cc04de8d-e9ff-4454-b881-def1665be0ad\"><td> Total Cholesterol </td><td> 199.08 </td><td> mg/dL </td><td></td><td></td><td></td><td> Fri Feb 17 17:25:24 CET 2017 </td></tr><tr id=\"Observation-urn:uuid:8984f34d-2cd4-412e-802a-4a6e1a02ec89\"><td> Triglycerides </td><td> 123.98 </td><td> mg/dL </td><td></td><td></td><td></td><td> Fri Feb 17 17:25:24 CET 2017 </td></tr><tr id=\"Observation-urn:uuid:a22c5a98-6b0e-428a-b1b7-3ef009a80d7a\"><td> Low Density Lipoprotein Cholesterol </td><td> 113 </td><td> mg/dL </td><td></td><td></td><td></td><td> Fri Feb 17 17:25:24 CET 2017 </td></tr><tr id=\"Observation-urn:uuid:fdfa5568-9130-4db1-bd93-212f29b68e2a\"><td> High Density Lipoprotein Cholesterol </td><td> 61.29 </td><td> mg/dL </td><td></td><td></td><td></td><td> Fri Feb 17 17:25:24 CET 2017 </td></tr><tr id=\"Observation-urn:uuid:b11bc1bb-6e24-446d-b0a1-a290e9c65ab3\"><td> Total Cholesterol </td><td> 173.36 </td><td> mg/dL </td><td></td><td></td><td></td><td> Fri Feb 21 17:25:24 CET 2020 </td></tr><tr id=\"Observation-urn:uuid:7877fe27-fd92-475c-8d29-442a818d5cfb\"><td> Triglycerides </td><td> 145.85 </td><td> mg/dL </td><td></td><td></td><td></td><td> Fri Feb 21 17:25:24 CET 2020 </td></tr><tr id=\"Observation-urn:uuid:b99391e1-73b4-4f90-8f36-247060439c1d\"><td> Low Density Lipoprotein Cholesterol </td><td> 75.23 </td><td> mg/dL </td><td></td><td></td><td></td><td> Fri Feb 21 17:25:24 CET 2020 </td></tr><tr id=\"Observation-urn:uuid:22545a47-56bf-4935-91f6-b30cc9eb8e72\"><td> High Density Lipoprotein Cholesterol </td><td> 68.96 </td><td> mg/dL </td><td></td><td></td><td></td><td> Fri Feb 21 17:25:24 CET 2020 </td></tr><tr id=\"Observation-urn:uuid:0341f87d-b94c-4f74-adb8-44d70e5d7683\"><td> Leukocytes [#/volume] in Blood by Automated count </td><td> 9.7211 </td><td> 10*3/uL </td><td></td><td></td><td></td><td> Fri Feb 21 17:25:24 CET 2020 </td></tr><tr id=\"Observation-urn:uuid:71154d02-692e-4778-809d-f7cca5aa4a16\"><td> Erythrocytes [#/volume] in Blood by Automated count </td><td> 4.3044 </td><td> 10*6/uL </td><td></td><td></td><td></td><td> Fri Feb 21 17:25:24 CET 2020 </td></tr><tr id=\"Observation-urn:uuid:c2e8b9e9-f3ab-4fbb-9df8-56f0363d134c\"><td> Hemoglobin [Mass/volume] in Blood </td><td> 13.999 </td><td> g/dL </td><td></td><td></td><td></td><td> Fri Feb 21 17:25:24 CET 2020 </td></tr><tr id=\"Observation-urn:uuid:e514f02c-6bcf-4575-bcd2-407de108d57b\"><td> Hematocrit [Volume Fraction] of Blood by Automated count </td><td> 36.258 </td><td> % </td><td></td><td></td><td></td><td> Fri Feb 21 17:25:24 CET 2020 </td></tr><tr id=\"Observation-urn:uuid:56245ba9-1198-4fb2-ac0e-6af00ccce026\"><td> MCV [Entitic volume] by Automated count </td><td> 89.573 </td><td> fL </td><td></td><td></td><td></td><td> Fri Feb 21 17:25:24 CET 2020 </td></tr><tr id=\"Observation-urn:uuid:4243925d-2a7a-427b-acdb-f4e8eccd8c17\"><td> MCH [Entitic mass] by Automated count </td><td> 31.648 </td><td> pg </td><td></td><td></td><td></td><td> Fri Feb 21 17:25:24 CET 2020 </td></tr><tr id=\"Observation-urn:uuid:ed9f277b-50e9-419c-8571-7fb00f73a894\"><td> MCHC [Mass/volume] by Automated count </td><td> 33.95 </td><td> g/dL </td><td></td><td></td><td></td><td> Fri Feb 21 17:25:24 CET 2020 </td></tr><tr id=\"Observation-urn:uuid:fe3662cc-9788-4e7b-83d2-00f1dd673f18\"><td> Erythrocyte distribution width [Entitic volume] by Automated count </td><td> 43.918 </td><td> fL </td><td></td><td></td><td></td><td> Fri Feb 21 17:25:24 CET 2020 </td></tr><tr id=\"Observation-urn:uuid:cb7a1c56-ddd4-41a6-b894-e3e01d4be0ac\"><td> Platelets [#/volume] in Blood by Automated count </td><td> 286.27 </td><td> 10*3/uL </td><td></td><td></td><td></td><td> Fri Feb 21 17:25:24 CET 2020 </td></tr><tr id=\"Observation-urn:uuid:58c812b5-a051-486c-ac70-ce3676f8d39c\"><td> Platelet distribution width [Entitic volume] in Blood by Automated count </td><td> 360.08 </td><td> fL </td><td></td><td></td><td></td><td> Fri Feb 21 17:25:24 CET 2020 </td></tr><tr id=\"Observation-urn:uuid:043e8183-d067-4ded-95d7-bfa4fe121d7d\"><td> Platelet mean volume [Entitic volume] in Blood by Automated count </td><td> 10.626 </td><td> fL </td><td></td><td></td><td></td><td> Fri Feb 21 17:25:24 CET 2020 </td></tr><tr id=\"Observation-urn:uuid:4631afbd-ca2e-458e-a0cb-1172a0d5c46e\"><td> Influenza virus A Ag [Presence] in Nasopharynx by Rapid immunoassay </td><td> Not detected (qualifier value) </td><td></td><td></td><td></td><td></td><td> Mon Mar 09 17:36:24 CET 2020 </td></tr><tr id=\"Observation-urn:uuid:1b895054-d222-4d97-8c70-e64e144efece\"><td> Influenza virus B Ag [Presence] in Nasopharynx by Rapid immunoassay </td><td> Not detected (qualifier value) </td><td></td><td></td><td></td><td></td><td> Mon Mar 09 17:36:24 CET 2020 </td></tr><tr id=\"Observation-urn:uuid:e3d94f6a-0463-41f5-93d0-7f2209899a3e\"><td> SARS-CoV-2 RNA Pnl Resp NAA+probe </td><td> Detected (qualifier value) </td><td></td><td></td><td></td><td></td><td> Mon Mar 09 19:02:24 CET 2020 </td></tr><tr id=\"Observation-urn:uuid:60c45794-ab7f-4aec-8c3a-2df3c4878605\"><td> Total Cholesterol </td><td> 162.1 </td><td> mg/dL </td><td></td><td></td><td></td><td> Fri Feb 24 17:25:24 CET 2023 </td></tr><tr id=\"Observation-urn:uuid:06091ffa-9bf9-4412-b073-5a6287e7230f\"><td> Triglycerides </td><td> 141.54 </td><td> mg/dL </td><td></td><td></td><td></td><td> Fri Feb 24 17:25:24 CET 2023 </td></tr><tr id=\"Observation-urn:uuid:e2eec6b1-79c9-4a65-ad04-c3480a3b7e9c\"><td> Low Density Lipoprotein Cholesterol </td><td> 54.8 </td><td> mg/dL </td><td></td><td></td><td></td><td> Fri Feb 24 17:25:24 CET 2023 </td></tr><tr id=\"Observation-urn:uuid:fe918c00-9e20-47bc-b479-6f45bda35b72\"><td> High Density Lipoprotein Cholesterol </td><td> 78.99 </td><td> mg/dL </td><td></td><td></td><td></td><td> Fri Feb 24 17:25:24 CET 2023 </td></tr><tr id=\"Observation-urn:uuid:901bd102-9482-4257-954c-2ee99f4e4fd7\"><td> Hemoglobin A1c/Hemoglobin.total in Blood </td><td> 5.85 </td><td> % </td><td></td><td></td><td></td><td> Fri Feb 24 17:25:24 CET 2023 </td></tr></tbody></table><table class=\"hapiPropertyTable\"><caption>Diagnostic Results: Diagnostic Reports</caption><thead><tr><th>Code</th><th>Date</th></tr></thead><tbody><tr id=\"DiagnosticReport-urn:uuid:0ef25695-07eb-4aee-9d6b-4de4a2ba3cbc\"><td> Lipid Panel </td><td> Fri Feb 17 17:25:24 CET 2017 </td></tr><tr id=\"DiagnosticReport-urn:uuid:ada51f1e-fae7-4846-a7c0-74d1c5449f6d\"><td> Lipid Panel </td><td> Fri Feb 21 17:25:24 CET 2020 </td></tr><tr id=\"DiagnosticReport-urn:uuid:6a55b2b4-7321-4001-9f4c-595153e9dcbb\"><td> Complete blood count (hemogram) panel - Blood by Automated count </td><td> Fri Feb 21 17:25:24 CET 2020 </td></tr><tr id=\"DiagnosticReport-urn:uuid:3af482e8-5fd2-478e-a880-3827ccaaedb4\"><td> Influenza virus A and B Ag panel - Nasopharynx by Rapid immunoassay </td><td> Mon Mar 09 17:36:24 CET 2020 </td></tr><tr id=\"DiagnosticReport-urn:uuid:fd6e3f83-4888-420c-a48f-28efacb3830e\"><td> SARS-CoV-2 RNA Pnl Resp NAA+probe </td><td> Mon Mar 09 19:02:24 CET 2020 </td></tr><tr id=\"DiagnosticReport-urn:uuid:183322dd-9291-46a8-8eae-4ed553499957\"><td> Lipid Panel </td><td> Fri Feb 24 17:25:24 CET 2023 </td></tr></tbody></table></div></div></div><div><h1>Vital Signs</h1><div><div><table class=\"hapiPropertyTable\"><caption>Vital Signs</caption><thead><tr><th>Code</th><th>Result</th><th>Unit</th><th>Interpretation</th><th>Comments</th><th>Date</th></tr></thead><tbody><tr id=\"Observation-urn:uuid:e65eb4ed-e0cd-4705-82bf-70dd496316f1\"><td> Body Height </td><td> 180 </td><td> cm </td><td></td><td> Fri Feb 17 17:25:24 CET 2017 </td></tr><tr id=\"Observation-urn:uuid:2b2893fe-1b68-426a-ab01-edc938bdfd1e\"><td> Pain severity - 0-10 verbal numeric rating [Score] - Reported </td><td> 1 </td><td> {score} </td><td></td><td> Fri Feb 17 17:25:24 CET 2017 </td></tr><tr id=\"Observation-urn:uuid:c0085819-802c-46a4-a28a-b8bb8fa43299\"><td> Body Weight </td><td> 77 </td><td> kg </td><td></td><td> Fri Feb 17 17:25:24 CET 2017 </td></tr><tr id=\"Observation-urn:uuid:2a818b0f-926b-4e72-b700-06256073dd17\"><td> Body Mass Index </td><td> 23.78 </td><td> kg/m2 </td><td></td><td> Fri Feb 17 17:25:24 CET 2017 </td></tr><tr id=\"Observation-urn:uuid:ac84bd81-b47a-4687-8f05-7de47a949c43\"><td> Blood Pressure </td><td></td><td></td><td></td><td> Fri Feb 17 17:25:24 CET 2017 </td></tr><tr id=\"Observation-urn:uuid:45e0f17e-c8ea-42f7-adde-62ea9c1906ad\"><td> Heart rate </td><td> 68 </td><td> /min </td><td></td><td> Fri Feb 17 17:25:24 CET 2017 </td></tr><tr id=\"Observation-urn:uuid:2e12f190-ad6d-49fc-bfcf-93da53f73665\"><td> Respiratory rate </td><td> 12 </td><td> /min </td><td></td><td> Fri Feb 17 17:25:24 CET 2017 </td></tr><tr id=\"Observation-urn:uuid:dad6debb-c271-403c-9b59-6e0eceb86a93\"><td> Body Height </td><td> 180 </td><td> cm </td><td></td><td> Fri Feb 21 17:25:24 CET 2020 </td></tr><tr id=\"Observation-urn:uuid:7c286f5a-9b2c-496b-9ab4-14acf1fd2ce6\"><td> Pain severity - 0-10 verbal numeric rating [Score] - Reported </td><td> 0 </td><td> {score} </td><td></td><td> Fri Feb 21 17:25:24 CET 2020 </td></tr><tr id=\"Observation-urn:uuid:9ca2ccec-15b2-481a-8fc6-132f1a148522\"><td> Body Weight </td><td> 80.9 </td><td> kg </td><td></td><td> Fri Feb 21 17:25:24 CET 2020 </td></tr><tr id=\"Observation-urn:uuid:54dc888e-9284-4d25-8545-af6bbbc5731b\"><td> Body Mass Index </td><td> 24.98 </td><td> kg/m2 </td><td></td><td> Fri Feb 21 17:25:24 CET 2020 </td></tr><tr id=\"Observation-urn:uuid:df060b84-3de0-44fb-93ac-72a353ed5b60\"><td> Blood Pressure </td><td></td><td></td><td></td><td> Fri Feb 21 17:25:24 CET 2020 </td></tr><tr id=\"Observation-urn:uuid:37c22062-94d0-4c43-aad3-6f7057ed4882\"><td> Heart rate </td><td> 99 </td><td> /min </td><td></td><td> Fri Feb 21 17:25:24 CET 2020 </td></tr><tr id=\"Observation-urn:uuid:ec6a0a37-1ea3-4102-883a-39f27847a92e\"><td> Respiratory rate </td><td> 15 </td><td> /min </td><td></td><td> Fri Feb 21 17:25:24 CET 2020 </td></tr><tr id=\"Observation-urn:uuid:ed30cbd1-a982-4ae4-84f9-bb3cf469a8fe\"><td> Body temperature </td><td> 38.882 </td><td> Cel </td><td></td><td> Mon Mar 09 17:25:24 CET 2020 </td></tr><tr id=\"Observation-urn:uuid:a5329571-1100-497c-add3-413dd14a36f4\"><td> Respiratory rate </td><td> 20.868 </td><td> /min </td><td></td><td> Mon Mar 09 17:25:24 CET 2020 </td></tr><tr id=\"Observation-urn:uuid:185baede-00ff-4cf6-a4b5-0dd886c3b258\"><td> Heart rate </td><td> 92.331 </td><td> /min </td><td></td><td> Mon Mar 09 17:25:24 CET 2020 </td></tr><tr id=\"Observation-urn:uuid:344c874f-71db-4652-ac97-c6272aacfa24\"><td> Oxygen saturation in Arterial blood </td><td> 77.61 </td><td> % </td><td></td><td> Mon Mar 09 17:25:24 CET 2020 </td></tr><tr id=\"Observation-urn:uuid:cecc4b26-687c-45f3-8260-721f5363ab54\"><td> Blood Pressure </td><td></td><td></td><td></td><td> Mon Mar 09 17:25:24 CET 2020 </td></tr><tr id=\"Observation-urn:uuid:9fc41bf9-a607-47b7-84d5-1d313b55d4a4\"><td> Body Weight </td><td> 80.9 </td><td> kg </td><td></td><td> Mon Mar 09 17:25:24 CET 2020 </td></tr><tr id=\"Observation-urn:uuid:ad732e67-5ce4-4b6b-b208-85b61055c514\"><td> Body Height </td><td> 180 </td><td> cm </td><td></td><td> Fri Feb 24 17:25:24 CET 2023 </td></tr><tr id=\"Observation-urn:uuid:53f9425a-75e0-4fb4-b6ca-9a5a3465df54\"><td> Pain severity - 0-10 verbal numeric rating [Score] - Reported </td><td> 2 </td><td> {score} </td><td></td><td> Fri Feb 24 17:25:24 CET 2023 </td></tr><tr id=\"Observation-urn:uuid:9f69e867-7803-484f-941d-d0d3efce29b6\"><td> Body Weight </td><td> 85.8 </td><td> kg </td><td></td><td> Fri Feb 24 17:25:24 CET 2023 </td></tr><tr id=\"Observation-urn:uuid:c6a70418-824c-48f5-89bb-73cb85d106db\"><td> Body Mass Index </td><td> 26.48 </td><td> kg/m2 </td><td></td><td> Fri Feb 24 17:25:24 CET 2023 </td></tr><tr id=\"Observation-urn:uuid:7d481dd7-6d5f-42f6-acad-dd2945ce54d1\"><td> Blood Pressure </td><td></td><td></td><td></td><td> Fri Feb 24 17:25:24 CET 2023 </td></tr><tr id=\"Observation-urn:uuid:916a3056-6641-48d0-b203-829d2abca5d1\"><td> Heart rate </td><td> 69 </td><td> /min </td><td></td><td> Fri Feb 24 17:25:24 CET 2023 </td></tr><tr id=\"Observation-urn:uuid:40bc37c2-64bc-4636-b09a-d182241c8420\"><td> Respiratory rate </td><td> 16 </td><td> /min </td><td></td><td> Fri Feb 24 17:25:24 CET 2023 </td></tr></tbody></table></div></div></div><div><h1>History of Past Illness</h1><div></div></div><div><h1>Plan of Care</h1><div><div><table class=\"hapiPropertyTable\"><caption>Plan of Care</caption><thead><tr><th>Activity</th><th>Intent</th><th>Comments</th><th>Planned Start</th><th>Planned End</th></tr></thead><tbody><tr id=\"CarePlan-urn:uuid:3afdcba3-5262-4bde-8122-905ee6a40e44\"><td></td><td>order</td><td></td><td>Fri Feb 24 17:25:24 CET 2023</td><td></td></tr></tbody></table></div></div></div></div>",
+          "status": "generated"
+        },
+        "title": "Patient Summary as of 09/20/2024",
+        "type": {
+          "coding": [
+            {
+              "code": "60591-5",
+              "display": "Patient Summary Document",
+              "system": "http://loinc.org"
+            }
+          ]
+        }
+      }
+    },
+    {
+      "fullUrl": "urn:uuid:80fadea3-ab7c-492e-ac9d-bf8dc22f5afa",
+      "resource": {
+        "address": [
+          {
+            "city": "Fitchburg",
+            "country": "US",
+            "extension": [
+              {
+                "extension": [
+                  {
+                    "url": "latitude",
+                    "valueDecimal": 42.58966826729489
+                  },
+                  {
+                    "url": "longitude",
+                    "valueDecimal": -71.83326660188379
+                  }
+                ],
+                "url": "http://hl7.org/fhir/StructureDefinition/geolocation"
+              }
+            ],
+            "line": [
+              "429 Ankunding Crossing Unit 70"
+            ],
+            "state": "Massachusetts"
+          }
+        ],
+        "birthDate": "1985-12-06",
+        "communication": [
+          {
+            "language": {
+              "coding": [
+                {
+                  "code": "en-US",
+                  "display": "English",
+                  "system": "urn:ietf:bcp:47"
+                }
+              ],
+              "text": "English"
+            }
+          }
+        ],
+        "extension": [
+          {
+            "url": "http://hl7.org/fhir/StructureDefinition/patient-mothersMaidenName",
+            "valueString": "Samuel331 Runolfsdottir785"
+          },
+          {
+            "url": "http://hl7.org/fhir/StructureDefinition/patient-birthPlace",
+            "valueAddress": {
+              "city": "Boston",
+              "country": "US",
+              "state": "Massachusetts"
+            }
+          },
+          {
+            "url": "http://synthetichealth.github.io/synthea/disability-adjusted-life-years",
+            "valueDecimal": 0.04498424213505621
+          },
+          {
+            "url": "http://synthetichealth.github.io/synthea/quality-adjusted-life-years",
+            "valueDecimal": 37.95501575786494
+          }
+        ],
+        "gender": "male",
+        "identifier": [
+          {
+            "system": "https://github.com/synthetichealth/synthea",
+            "value": "873a1352-6abd-f041-dce2-119e1ac758b6"
+          },
+          {
+            "system": "http://hospital.smarthealthit.org",
+            "type": {
+              "coding": [
+                {
+                  "code": "MR",
+                  "display": "Medical Record Number",
+                  "system": "http://terminology.hl7.org/CodeSystem/v2-0203"
+                }
+              ],
+              "text": "Medical Record Number"
+            },
+            "value": "873a1352-6abd-f041-dce2-119e1ac758b6"
+          },
+          {
+            "system": "http://hl7.org/fhir/sid/us-ssn",
+            "type": {
+              "coding": [
+                {
+                  "code": "SS",
+                  "display": "Social Security Number",
+                  "system": "http://terminology.hl7.org/CodeSystem/v2-0203"
+                }
+              ],
+              "text": "Social Security Number"
+            },
+            "value": "999-67-8472"
+          },
+          {
+            "system": "urn:oid:2.16.840.1.113883.4.3.25",
+            "type": {
+              "coding": [
+                {
+                  "code": "DL",
+                  "display": "Driver's License",
+                  "system": "http://terminology.hl7.org/CodeSystem/v2-0203"
+                }
+              ],
+              "text": "Driver's License"
+            },
+            "value": "S99970004"
+          },
+          {
+            "system": "http://standardhealthrecord.org/fhir/StructureDefinition/passportNumber",
+            "type": {
+              "coding": [
+                {
+                  "code": "PPN",
+                  "display": "Passport Number",
+                  "system": "http://terminology.hl7.org/CodeSystem/v2-0203"
+                }
+              ],
+              "text": "Passport Number"
+            },
+            "value": "X64267149X"
+          }
+        ],
+        "maritalStatus": {
+          "coding": [
+            {
+              "code": "S",
+              "display": "S",
+              "system": "http://terminology.hl7.org/CodeSystem/v3-MaritalStatus"
+            }
+          ],
+          "text": "S"
+        },
+        "meta": {
+          "lastUpdated": "2024-09-20T16:04:56.758+02:00",
+          "source": "#yQdTMZlldMq3GnVF",
+          "versionId": "1"
+        },
+        "multipleBirthBoolean": false,
+        "name": [
+          {
+            "family": "Johnston597",
+            "given": [
+              "Norbert530"
+            ],
+            "prefix": [
+              "Mr."
+            ],
+            "use": "official"
+          }
+        ],
+        "resourceType": "Patient",
+        "telecom": [
+          {
+            "system": "phone",
+            "use": "home",
+            "value": "555-349-4888"
+          }
+        ],
+        "text": {
+          "div": "<div xmlns=\"http://www.w3.org/1999/xhtml\">Generated by <a href=\"https://github.com/synthetichealth/synthea\">Synthea</a>.Version identifier: synthea-java .   Person seed: 6133814327245372449  Population seed: 1709661719604</div>",
+          "status": "generated"
+        }
+      }
+    },
+    {
+      "fullUrl": "urn:uuid:5c24d78a-2ee0-4826-8580-bcf4f063fcb6",
+      "resource": {
+        "clinicalStatus": {
+          "coding": [
+            {
+              "code": "active",
+              "system": "http://terminology.hl7.org/CodeSystem/allergyintolerance-clinical"
+            }
+          ]
+        },
+        "code": {
+          "coding": [
+            {
+              "code": "no-allergy-info",
+              "display": "No information about allergies",
+              "system": "http://hl7.org/fhir/uv/ips/CodeSystem/absent-unknown-uv-ips"
+            }
+          ]
+        },
+        "extension": [
+          {
+            "url": "http://hl7.org/fhir/StructureDefinition/narrativeLink",
+            "valueUrl": "urn:uuid:fc8a1633-94fe-4b3b-b260-57b80828a1a1#AllergyIntolerance-urn:uuid:5c24d78a-2ee0-4826-8580-bcf4f063fcb6"
+          }
+        ],
+        "patient": {
+          "reference": "urn:uuid:80fadea3-ab7c-492e-ac9d-bf8dc22f5afa"
+        },
+        "resourceType": "AllergyIntolerance"
+      }
+    },
+    {
+      "fullUrl": "urn:uuid:bd126702-6f96-40c6-ae9d-f97b5f355ccc",
+      "resource": {
+        "extension": [
+          {
+            "url": "http://hl7.org/fhir/StructureDefinition/narrativeLink",
+            "valueUrl": "urn:uuid:fc8a1633-94fe-4b3b-b260-57b80828a1a1#MedicationStatement-urn:uuid:bd126702-6f96-40c6-ae9d-f97b5f355ccc"
+          }
+        ],
+        "medicationCodeableConcept": {
+          "coding": [
+            {
+              "code": "no-medication-info",
+              "display": "No information about medications",
+              "system": "http://hl7.org/fhir/uv/ips/CodeSystem/absent-unknown-uv-ips"
+            }
+          ]
+        },
+        "resourceType": "MedicationStatement",
+        "status": "unknown",
+        "subject": {
+          "reference": "urn:uuid:80fadea3-ab7c-492e-ac9d-bf8dc22f5afa"
+        }
+      }
+    },
+    {
+      "fullUrl": "urn:uuid:8eac2b71-c3d3-4e36-9af8-a13114121ccf",
+      "resource": {
+        "clinicalStatus": {
+          "coding": [
+            {
+              "code": "active",
+              "system": "http://terminology.hl7.org/CodeSystem/condition-clinical"
+            }
+          ]
+        },
+        "code": {
+          "coding": [
+            {
+              "code": "15777000",
+              "display": "Prediabetes",
+              "system": "http://snomed.info/sct"
+            }
+          ],
+          "text": "Prediabetes"
+        },
+        "extension": [
+          {
+            "url": "http://hl7.org/fhir/StructureDefinition/narrativeLink",
+            "valueUrl": "urn:uuid:fc8a1633-94fe-4b3b-b260-57b80828a1a1#Condition-urn:uuid:8eac2b71-c3d3-4e36-9af8-a13114121ccf"
+          }
+        ],
+        "meta": {
+          "lastUpdated": "2024-09-20T16:04:56.758+02:00",
+          "source": "#yQdTMZlldMq3GnVF",
+          "versionId": "1"
+        },
+        "onsetDateTime": "2023-02-24T17:25:24+01:00",
+        "recordedDate": "2023-02-24T17:25:24+01:00",
+        "resourceType": "Condition",
+        "subject": {
+          "reference": "urn:uuid:80fadea3-ab7c-492e-ac9d-bf8dc22f5afa"
+        },
+        "verificationStatus": {
+          "coding": [
+            {
+              "code": "confirmed",
+              "system": "http://terminology.hl7.org/CodeSystem/condition-ver-status"
+            }
+          ]
+        }
+      }
+    },
+    {
+      "fullUrl": "urn:uuid:db0f1bdc-89cd-4f84-b65b-964ac2708b5c",
+      "resource": {
+        "extension": [
+          {
+            "url": "http://hl7.org/fhir/StructureDefinition/narrativeLink",
+            "valueUrl": "urn:uuid:fc8a1633-94fe-4b3b-b260-57b80828a1a1#Immunization-urn:uuid:db0f1bdc-89cd-4f84-b65b-964ac2708b5c"
+          }
+        ],
+        "meta": {
+          "lastUpdated": "2024-09-20T16:04:56.758+02:00",
+          "source": "#yQdTMZlldMq3GnVF",
+          "versionId": "1"
+        },
+        "occurrenceDateTime": "2023-02-24T17:25:24+01:00",
+        "patient": {
+          "reference": "urn:uuid:80fadea3-ab7c-492e-ac9d-bf8dc22f5afa"
+        },
+        "primarySource": true,
+        "resourceType": "Immunization",
+        "status": "completed",
+        "vaccineCode": {
+          "coding": [
+            {
+              "code": "140",
+              "display": "Influenza, seasonal, injectable, preservative free",
+              "system": "http://hl7.org/fhir/sid/cvx"
+            }
+          ],
+          "text": "Influenza, seasonal, injectable, preservative free"
+        }
+      }
+    },
+    {
+      "fullUrl": "urn:uuid:7a5701bc-cb54-4eaa-a8e9-c3826fd1059b",
+      "resource": {
+        "extension": [
+          {
+            "url": "http://hl7.org/fhir/StructureDefinition/narrativeLink",
+            "valueUrl": "urn:uuid:fc8a1633-94fe-4b3b-b260-57b80828a1a1#Immunization-urn:uuid:7a5701bc-cb54-4eaa-a8e9-c3826fd1059b"
+          }
+        ],
+        "meta": {
+          "lastUpdated": "2024-09-20T16:04:56.758+02:00",
+          "source": "#yQdTMZlldMq3GnVF",
+          "versionId": "1"
+        },
+        "occurrenceDateTime": "2020-02-21T17:25:24+01:00",
+        "patient": {
+          "reference": "urn:uuid:80fadea3-ab7c-492e-ac9d-bf8dc22f5afa"
+        },
+        "primarySource": true,
+        "resourceType": "Immunization",
+        "status": "completed",
+        "vaccineCode": {
+          "coding": [
+            {
+              "code": "140",
+              "display": "Influenza, seasonal, injectable, preservative free",
+              "system": "http://hl7.org/fhir/sid/cvx"
+            }
+          ],
+          "text": "Influenza, seasonal, injectable, preservative free"
+        }
+      }
+    },
+    {
+      "fullUrl": "urn:uuid:e0250885-a524-41f7-b3f7-00c02da02c82",
+      "resource": {
+        "extension": [
+          {
+            "url": "http://hl7.org/fhir/StructureDefinition/narrativeLink",
+            "valueUrl": "urn:uuid:fc8a1633-94fe-4b3b-b260-57b80828a1a1#Immunization-urn:uuid:e0250885-a524-41f7-b3f7-00c02da02c82"
+          }
+        ],
+        "meta": {
+          "lastUpdated": "2024-09-20T16:04:56.758+02:00",
+          "source": "#yQdTMZlldMq3GnVF",
+          "versionId": "1"
+        },
+        "occurrenceDateTime": "2017-02-17T17:25:24+01:00",
+        "patient": {
+          "reference": "urn:uuid:80fadea3-ab7c-492e-ac9d-bf8dc22f5afa"
+        },
+        "primarySource": true,
+        "resourceType": "Immunization",
+        "status": "completed",
+        "vaccineCode": {
+          "coding": [
+            {
+              "code": "140",
+              "display": "Influenza, seasonal, injectable, preservative free",
+              "system": "http://hl7.org/fhir/sid/cvx"
+            }
+          ],
+          "text": "Influenza, seasonal, injectable, preservative free"
+        }
+      }
+    },
+    {
+      "fullUrl": "urn:uuid:0dfad4ea-ba20-453d-b58b-ca5821a471f5",
+      "resource": {
+        "extension": [
+          {
+            "url": "http://hl7.org/fhir/StructureDefinition/narrativeLink",
+            "valueUrl": "urn:uuid:fc8a1633-94fe-4b3b-b260-57b80828a1a1#Immunization-urn:uuid:0dfad4ea-ba20-453d-b58b-ca5821a471f5"
+          }
+        ],
+        "meta": {
+          "lastUpdated": "2024-09-20T16:04:56.758+02:00",
+          "source": "#yQdTMZlldMq3GnVF",
+          "versionId": "1"
+        },
+        "occurrenceDateTime": "2017-02-17T17:25:24+01:00",
+        "patient": {
+          "reference": "urn:uuid:80fadea3-ab7c-492e-ac9d-bf8dc22f5afa"
+        },
+        "primarySource": true,
+        "resourceType": "Immunization",
+        "status": "completed",
+        "vaccineCode": {
+          "coding": [
+            {
+              "code": "113",
+              "display": "Td (adult) preservative free",
+              "system": "http://hl7.org/fhir/sid/cvx"
+            }
+          ],
+          "text": "Td (adult) preservative free"
+        }
+      }
+    },
+    {
+      "fullUrl": "urn:uuid:dd3a62cc-6dd9-43af-bee9-e4c5561f51cd",
+      "resource": {
+        "code": {
+          "coding": [
+            {
+              "code": "430193006",
+              "display": "Medication Reconciliation (procedure)",
+              "system": "http://snomed.info/sct"
+            }
+          ],
+          "text": "Medication Reconciliation (procedure)"
+        },
+        "extension": [
+          {
+            "url": "http://hl7.org/fhir/StructureDefinition/narrativeLink",
+            "valueUrl": "urn:uuid:fc8a1633-94fe-4b3b-b260-57b80828a1a1#Procedure-urn:uuid:dd3a62cc-6dd9-43af-bee9-e4c5561f51cd"
+          }
+        ],
+        "meta": {
+          "lastUpdated": "2024-09-20T16:04:56.758+02:00",
+          "source": "#yQdTMZlldMq3GnVF",
+          "versionId": "1"
+        },
+        "performedPeriod": {
+          "end": "2017-02-17T17:40:24+01:00",
+          "start": "2017-02-17T17:25:24+01:00"
+        },
+        "resourceType": "Procedure",
+        "status": "completed",
+        "subject": {
+          "reference": "urn:uuid:80fadea3-ab7c-492e-ac9d-bf8dc22f5afa"
+        }
+      }
+    },
+    {
+      "fullUrl": "urn:uuid:f9236e92-261b-4727-a14b-e9f94d329946",
+      "resource": {
+        "code": {
+          "coding": [
+            {
+              "code": "261352009",
+              "display": "Face mask (physical object)",
+              "system": "http://snomed.info/sct"
+            }
+          ],
+          "text": "Face mask (physical object)"
+        },
+        "extension": [
+          {
+            "url": "http://hl7.org/fhir/StructureDefinition/narrativeLink",
+            "valueUrl": "urn:uuid:fc8a1633-94fe-4b3b-b260-57b80828a1a1#Procedure-urn:uuid:f9236e92-261b-4727-a14b-e9f94d329946"
+          }
+        ],
+        "meta": {
+          "lastUpdated": "2024-09-20T16:04:56.758+02:00",
+          "source": "#yQdTMZlldMq3GnVF",
+          "versionId": "1"
+        },
+        "performedPeriod": {
+          "end": "2020-03-09T17:36:24+01:00",
+          "start": "2020-03-09T17:25:24+01:00"
+        },
+        "reasonReference": [
+          {
+            "display": "Suspected COVID-19"
+          }
+        ],
+        "resourceType": "Procedure",
+        "status": "completed",
+        "subject": {
+          "reference": "urn:uuid:80fadea3-ab7c-492e-ac9d-bf8dc22f5afa"
+        }
+      }
+    },
+    {
+      "fullUrl": "urn:uuid:06e322c1-00eb-4479-8ebb-5dbc64710606",
+      "resource": {
+        "code": {
+          "coding": [
+            {
+              "code": "430193006",
+              "display": "Medication Reconciliation (procedure)",
+              "system": "http://snomed.info/sct"
+            }
+          ],
+          "text": "Medication Reconciliation (procedure)"
+        },
+        "extension": [
+          {
+            "url": "http://hl7.org/fhir/StructureDefinition/narrativeLink",
+            "valueUrl": "urn:uuid:fc8a1633-94fe-4b3b-b260-57b80828a1a1#Procedure-urn:uuid:06e322c1-00eb-4479-8ebb-5dbc64710606"
+          }
+        ],
+        "meta": {
+          "lastUpdated": "2024-09-20T16:04:56.758+02:00",
+          "source": "#yQdTMZlldMq3GnVF",
+          "versionId": "1"
+        },
+        "performedPeriod": {
+          "end": "2023-02-24T17:40:24+01:00",
+          "start": "2023-02-24T17:25:24+01:00"
+        },
+        "resourceType": "Procedure",
+        "status": "completed",
+        "subject": {
+          "reference": "urn:uuid:80fadea3-ab7c-492e-ac9d-bf8dc22f5afa"
+        }
+      }
+    },
+    {
+      "fullUrl": "urn:uuid:443cc219-368d-4f8a-bcdc-1ef0ad8b84d3",
+      "resource": {
+        "code": {
+          "coding": [
+            {
+              "code": "288086009",
+              "display": "Suture open wound",
+              "system": "http://snomed.info/sct"
+            }
+          ],
+          "text": "Suture open wound"
+        },
+        "extension": [
+          {
+            "url": "http://hl7.org/fhir/StructureDefinition/narrativeLink",
+            "valueUrl": "urn:uuid:fc8a1633-94fe-4b3b-b260-57b80828a1a1#Procedure-urn:uuid:443cc219-368d-4f8a-bcdc-1ef0ad8b84d3"
+          }
+        ],
+        "meta": {
+          "lastUpdated": "2024-09-20T16:04:56.758+02:00",
+          "source": "#yQdTMZlldMq3GnVF",
+          "versionId": "1"
+        },
+        "performedPeriod": {
+          "end": "2023-07-20T18:41:24+02:00",
+          "start": "2023-07-20T18:25:24+02:00"
+        },
+        "reasonReference": [
+          {
+            "display": "Facial laceration"
+          }
+        ],
+        "resourceType": "Procedure",
+        "status": "completed",
+        "subject": {
+          "reference": "urn:uuid:80fadea3-ab7c-492e-ac9d-bf8dc22f5afa"
+        }
+      }
+    },
+    {
+      "fullUrl": "urn:uuid:0ef25695-07eb-4aee-9d6b-4de4a2ba3cbc",
+      "resource": {
+        "category": [
+          {
+            "coding": [
+              {
+                "code": "LAB",
+                "display": "Laboratory",
+                "system": "http://terminology.hl7.org/CodeSystem/v2-0074"
+              }
+            ]
+          }
+        ],
+        "code": {
+          "coding": [
+            {
+              "code": "57698-3",
+              "display": "Lipid Panel",
+              "system": "http://loinc.org"
+            }
+          ],
+          "text": "Lipid Panel"
+        },
+        "effectiveDateTime": "2017-02-17T17:25:24+01:00",
+        "extension": [
+          {
+            "url": "http://hl7.org/fhir/StructureDefinition/narrativeLink",
+            "valueUrl": "urn:uuid:fc8a1633-94fe-4b3b-b260-57b80828a1a1#DiagnosticReport-urn:uuid:0ef25695-07eb-4aee-9d6b-4de4a2ba3cbc"
+          }
+        ],
+        "issued": "2017-02-17T17:25:24.161+01:00",
+        "meta": {
+          "lastUpdated": "2024-09-20T16:04:56.758+02:00",
+          "source": "#yQdTMZlldMq3GnVF",
+          "versionId": "1"
+        },
+        "resourceType": "DiagnosticReport",
+        "result": [
+          {
+            "display": "Total Cholesterol",
+            "reference": "urn:uuid:cc04de8d-e9ff-4454-b881-def1665be0ad"
+          },
+          {
+            "display": "Triglycerides",
+            "reference": "urn:uuid:8984f34d-2cd4-412e-802a-4a6e1a02ec89"
+          },
+          {
+            "display": "Low Density Lipoprotein Cholesterol",
+            "reference": "urn:uuid:a22c5a98-6b0e-428a-b1b7-3ef009a80d7a"
+          },
+          {
+            "display": "High Density Lipoprotein Cholesterol",
+            "reference": "urn:uuid:fdfa5568-9130-4db1-bd93-212f29b68e2a"
+          }
+        ],
+        "status": "final",
+        "subject": {
+          "reference": "urn:uuid:80fadea3-ab7c-492e-ac9d-bf8dc22f5afa"
+        }
+      }
+    },
+    {
+      "fullUrl": "urn:uuid:ada51f1e-fae7-4846-a7c0-74d1c5449f6d",
+      "resource": {
+        "category": [
+          {
+            "coding": [
+              {
+                "code": "LAB",
+                "display": "Laboratory",
+                "system": "http://terminology.hl7.org/CodeSystem/v2-0074"
+              }
+            ]
+          }
+        ],
+        "code": {
+          "coding": [
+            {
+              "code": "57698-3",
+              "display": "Lipid Panel",
+              "system": "http://loinc.org"
+            }
+          ],
+          "text": "Lipid Panel"
+        },
+        "effectiveDateTime": "2020-02-21T17:25:24+01:00",
+        "extension": [
+          {
+            "url": "http://hl7.org/fhir/StructureDefinition/narrativeLink",
+            "valueUrl": "urn:uuid:fc8a1633-94fe-4b3b-b260-57b80828a1a1#DiagnosticReport-urn:uuid:ada51f1e-fae7-4846-a7c0-74d1c5449f6d"
+          }
+        ],
+        "issued": "2020-02-21T17:25:24.161+01:00",
+        "meta": {
+          "lastUpdated": "2024-09-20T16:04:56.758+02:00",
+          "source": "#yQdTMZlldMq3GnVF",
+          "versionId": "1"
+        },
+        "resourceType": "DiagnosticReport",
+        "result": [
+          {
+            "display": "Total Cholesterol",
+            "reference": "urn:uuid:b11bc1bb-6e24-446d-b0a1-a290e9c65ab3"
+          },
+          {
+            "display": "Triglycerides",
+            "reference": "urn:uuid:7877fe27-fd92-475c-8d29-442a818d5cfb"
+          },
+          {
+            "display": "Low Density Lipoprotein Cholesterol",
+            "reference": "urn:uuid:b99391e1-73b4-4f90-8f36-247060439c1d"
+          },
+          {
+            "display": "High Density Lipoprotein Cholesterol",
+            "reference": "urn:uuid:22545a47-56bf-4935-91f6-b30cc9eb8e72"
+          }
+        ],
+        "status": "final",
+        "subject": {
+          "reference": "urn:uuid:80fadea3-ab7c-492e-ac9d-bf8dc22f5afa"
+        }
+      }
+    },
+    {
+      "fullUrl": "urn:uuid:6a55b2b4-7321-4001-9f4c-595153e9dcbb",
+      "resource": {
+        "category": [
+          {
+            "coding": [
+              {
+                "code": "LAB",
+                "display": "Laboratory",
+                "system": "http://terminology.hl7.org/CodeSystem/v2-0074"
+              }
+            ]
+          }
+        ],
+        "code": {
+          "coding": [
+            {
+              "code": "58410-2",
+              "display": "Complete blood count (hemogram) panel - Blood by Automated count",
+              "system": "http://loinc.org"
+            }
+          ],
+          "text": "Complete blood count (hemogram) panel - Blood by Automated count"
+        },
+        "effectiveDateTime": "2020-02-21T17:25:24+01:00",
+        "extension": [
+          {
+            "url": "http://hl7.org/fhir/StructureDefinition/narrativeLink",
+            "valueUrl": "urn:uuid:fc8a1633-94fe-4b3b-b260-57b80828a1a1#DiagnosticReport-urn:uuid:6a55b2b4-7321-4001-9f4c-595153e9dcbb"
+          }
+        ],
+        "issued": "2020-02-21T17:25:24.161+01:00",
+        "meta": {
+          "lastUpdated": "2024-09-20T16:04:56.758+02:00",
+          "source": "#yQdTMZlldMq3GnVF",
+          "versionId": "1"
+        },
+        "resourceType": "DiagnosticReport",
+        "result": [
+          {
+            "display": "Leukocytes [#/volume] in Blood by Automated count",
+            "reference": "urn:uuid:0341f87d-b94c-4f74-adb8-44d70e5d7683"
+          },
+          {
+            "display": "Erythrocytes [#/volume] in Blood by Automated count",
+            "reference": "urn:uuid:71154d02-692e-4778-809d-f7cca5aa4a16"
+          },
+          {
+            "display": "Hemoglobin [Mass/volume] in Blood",
+            "reference": "urn:uuid:c2e8b9e9-f3ab-4fbb-9df8-56f0363d134c"
+          },
+          {
+            "display": "Hematocrit [Volume Fraction] of Blood by Automated count",
+            "reference": "urn:uuid:e514f02c-6bcf-4575-bcd2-407de108d57b"
+          },
+          {
+            "display": "MCV [Entitic volume] by Automated count",
+            "reference": "urn:uuid:56245ba9-1198-4fb2-ac0e-6af00ccce026"
+          },
+          {
+            "display": "MCH [Entitic mass] by Automated count",
+            "reference": "urn:uuid:4243925d-2a7a-427b-acdb-f4e8eccd8c17"
+          },
+          {
+            "display": "MCHC [Mass/volume] by Automated count",
+            "reference": "urn:uuid:ed9f277b-50e9-419c-8571-7fb00f73a894"
+          },
+          {
+            "display": "Erythrocyte distribution width [Entitic volume] by Automated count",
+            "reference": "urn:uuid:fe3662cc-9788-4e7b-83d2-00f1dd673f18"
+          },
+          {
+            "display": "Platelets [#/volume] in Blood by Automated count",
+            "reference": "urn:uuid:cb7a1c56-ddd4-41a6-b894-e3e01d4be0ac"
+          },
+          {
+            "display": "Platelet distribution width [Entitic volume] in Blood by Automated count",
+            "reference": "urn:uuid:58c812b5-a051-486c-ac70-ce3676f8d39c"
+          },
+          {
+            "display": "Platelet mean volume [Entitic volume] in Blood by Automated count",
+            "reference": "urn:uuid:043e8183-d067-4ded-95d7-bfa4fe121d7d"
+          }
+        ],
+        "status": "final",
+        "subject": {
+          "reference": "urn:uuid:80fadea3-ab7c-492e-ac9d-bf8dc22f5afa"
+        }
+      }
+    },
+    {
+      "fullUrl": "urn:uuid:3af482e8-5fd2-478e-a880-3827ccaaedb4",
+      "resource": {
+        "category": [
+          {
+            "coding": [
+              {
+                "code": "LAB",
+                "display": "Laboratory",
+                "system": "http://terminology.hl7.org/CodeSystem/v2-0074"
+              }
+            ]
+          }
+        ],
+        "code": {
+          "coding": [
+            {
+              "code": "80381-7",
+              "display": "Influenza virus A and B Ag panel - Nasopharynx by Rapid immunoassay",
+              "system": "http://loinc.org"
+            }
+          ],
+          "text": "Influenza virus A and B Ag panel - Nasopharynx by Rapid immunoassay"
+        },
+        "effectiveDateTime": "2020-03-09T17:36:24+01:00",
+        "extension": [
+          {
+            "url": "http://hl7.org/fhir/StructureDefinition/narrativeLink",
+            "valueUrl": "urn:uuid:fc8a1633-94fe-4b3b-b260-57b80828a1a1#DiagnosticReport-urn:uuid:3af482e8-5fd2-478e-a880-3827ccaaedb4"
+          }
+        ],
+        "issued": "2020-03-09T17:36:24.161+01:00",
+        "meta": {
+          "lastUpdated": "2024-09-20T16:04:56.758+02:00",
+          "source": "#yQdTMZlldMq3GnVF",
+          "versionId": "1"
+        },
+        "resourceType": "DiagnosticReport",
+        "result": [
+          {
+            "display": "Influenza virus A Ag [Presence] in Nasopharynx by Rapid immunoassay",
+            "reference": "urn:uuid:4631afbd-ca2e-458e-a0cb-1172a0d5c46e"
+          },
+          {
+            "display": "Influenza virus B Ag [Presence] in Nasopharynx by Rapid immunoassay",
+            "reference": "urn:uuid:1b895054-d222-4d97-8c70-e64e144efece"
+          }
+        ],
+        "status": "final",
+        "subject": {
+          "reference": "urn:uuid:80fadea3-ab7c-492e-ac9d-bf8dc22f5afa"
+        }
+      }
+    },
+    {
+      "fullUrl": "urn:uuid:fd6e3f83-4888-420c-a48f-28efacb3830e",
+      "resource": {
+        "category": [
+          {
+            "coding": [
+              {
+                "code": "LAB",
+                "display": "Laboratory",
+                "system": "http://terminology.hl7.org/CodeSystem/v2-0074"
+              }
+            ]
+          }
+        ],
+        "code": {
+          "coding": [
+            {
+              "code": "94531-1",
+              "display": "SARS-CoV-2 RNA Pnl Resp NAA+probe",
+              "system": "http://loinc.org"
+            }
+          ],
+          "text": "SARS-CoV-2 RNA Pnl Resp NAA+probe"
+        },
+        "effectiveDateTime": "2020-03-09T19:02:24+01:00",
+        "extension": [
+          {
+            "url": "http://hl7.org/fhir/StructureDefinition/narrativeLink",
+            "valueUrl": "urn:uuid:fc8a1633-94fe-4b3b-b260-57b80828a1a1#DiagnosticReport-urn:uuid:fd6e3f83-4888-420c-a48f-28efacb3830e"
+          }
+        ],
+        "issued": "2020-03-09T19:02:24.161+01:00",
+        "meta": {
+          "lastUpdated": "2024-09-20T16:04:56.758+02:00",
+          "source": "#yQdTMZlldMq3GnVF",
+          "versionId": "1"
+        },
+        "resourceType": "DiagnosticReport",
+        "result": [
+          {
+            "display": "SARS-CoV-2 RNA Pnl Resp NAA+probe",
+            "reference": "urn:uuid:e3d94f6a-0463-41f5-93d0-7f2209899a3e"
+          }
+        ],
+        "status": "final",
+        "subject": {
+          "reference": "urn:uuid:80fadea3-ab7c-492e-ac9d-bf8dc22f5afa"
+        }
+      }
+    },
+    {
+      "fullUrl": "urn:uuid:183322dd-9291-46a8-8eae-4ed553499957",
+      "resource": {
+        "category": [
+          {
+            "coding": [
+              {
+                "code": "LAB",
+                "display": "Laboratory",
+                "system": "http://terminology.hl7.org/CodeSystem/v2-0074"
+              }
+            ]
+          }
+        ],
+        "code": {
+          "coding": [
+            {
+              "code": "57698-3",
+              "display": "Lipid Panel",
+              "system": "http://loinc.org"
+            }
+          ],
+          "text": "Lipid Panel"
+        },
+        "effectiveDateTime": "2023-02-24T17:25:24+01:00",
+        "extension": [
+          {
+            "url": "http://hl7.org/fhir/StructureDefinition/narrativeLink",
+            "valueUrl": "urn:uuid:fc8a1633-94fe-4b3b-b260-57b80828a1a1#DiagnosticReport-urn:uuid:183322dd-9291-46a8-8eae-4ed553499957"
+          }
+        ],
+        "issued": "2023-02-24T17:25:24.161+01:00",
+        "meta": {
+          "lastUpdated": "2024-09-20T16:04:56.758+02:00",
+          "source": "#yQdTMZlldMq3GnVF",
+          "versionId": "1"
+        },
+        "resourceType": "DiagnosticReport",
+        "result": [
+          {
+            "display": "Total Cholesterol",
+            "reference": "urn:uuid:60c45794-ab7f-4aec-8c3a-2df3c4878605"
+          },
+          {
+            "display": "Triglycerides",
+            "reference": "urn:uuid:06091ffa-9bf9-4412-b073-5a6287e7230f"
+          },
+          {
+            "display": "Low Density Lipoprotein Cholesterol",
+            "reference": "urn:uuid:e2eec6b1-79c9-4a65-ad04-c3480a3b7e9c"
+          },
+          {
+            "display": "High Density Lipoprotein Cholesterol",
+            "reference": "urn:uuid:fe918c00-9e20-47bc-b479-6f45bda35b72"
+          }
+        ],
+        "status": "final",
+        "subject": {
+          "reference": "urn:uuid:80fadea3-ab7c-492e-ac9d-bf8dc22f5afa"
+        }
+      }
+    },
+    {
+      "fullUrl": "urn:uuid:cc04de8d-e9ff-4454-b881-def1665be0ad",
+      "resource": {
+        "category": [
+          {
+            "coding": [
+              {
+                "code": "laboratory",
+                "display": "laboratory",
+                "system": "http://terminology.hl7.org/CodeSystem/observation-category"
+              }
+            ]
+          }
+        ],
+        "code": {
+          "coding": [
+            {
+              "code": "2093-3",
+              "display": "Total Cholesterol",
+              "system": "http://loinc.org"
+            }
+          ],
+          "text": "Total Cholesterol"
+        },
+        "effectiveDateTime": "2017-02-17T17:25:24+01:00",
+        "extension": [
+          {
+            "url": "http://hl7.org/fhir/StructureDefinition/narrativeLink",
+            "valueUrl": "urn:uuid:fc8a1633-94fe-4b3b-b260-57b80828a1a1#Observation-urn:uuid:cc04de8d-e9ff-4454-b881-def1665be0ad"
+          }
+        ],
+        "issued": "2017-02-17T17:25:24.161+01:00",
+        "meta": {
+          "lastUpdated": "2024-09-20T16:04:56.758+02:00",
+          "source": "#yQdTMZlldMq3GnVF",
+          "versionId": "1"
+        },
+        "resourceType": "Observation",
+        "status": "final",
+        "subject": {
+          "reference": "urn:uuid:80fadea3-ab7c-492e-ac9d-bf8dc22f5afa"
+        },
+        "valueQuantity": {
+          "code": "mg/dL",
+          "system": "http://unitsofmeasure.org",
+          "unit": "mg/dL",
+          "value": 199.08
+        }
+      }
+    },
+    {
+      "fullUrl": "urn:uuid:8984f34d-2cd4-412e-802a-4a6e1a02ec89",
+      "resource": {
+        "category": [
+          {
+            "coding": [
+              {
+                "code": "laboratory",
+                "display": "laboratory",
+                "system": "http://terminology.hl7.org/CodeSystem/observation-category"
+              }
+            ]
+          }
+        ],
+        "code": {
+          "coding": [
+            {
+              "code": "2571-8",
+              "display": "Triglycerides",
+              "system": "http://loinc.org"
+            }
+          ],
+          "text": "Triglycerides"
+        },
+        "effectiveDateTime": "2017-02-17T17:25:24+01:00",
+        "extension": [
+          {
+            "url": "http://hl7.org/fhir/StructureDefinition/narrativeLink",
+            "valueUrl": "urn:uuid:fc8a1633-94fe-4b3b-b260-57b80828a1a1#Observation-urn:uuid:8984f34d-2cd4-412e-802a-4a6e1a02ec89"
+          }
+        ],
+        "issued": "2017-02-17T17:25:24.161+01:00",
+        "meta": {
+          "lastUpdated": "2024-09-20T16:04:56.758+02:00",
+          "source": "#yQdTMZlldMq3GnVF",
+          "versionId": "1"
+        },
+        "resourceType": "Observation",
+        "status": "final",
+        "subject": {
+          "reference": "urn:uuid:80fadea3-ab7c-492e-ac9d-bf8dc22f5afa"
+        },
+        "valueQuantity": {
+          "code": "mg/dL",
+          "system": "http://unitsofmeasure.org",
+          "unit": "mg/dL",
+          "value": 123.98
+        }
+      }
+    },
+    {
+      "fullUrl": "urn:uuid:a22c5a98-6b0e-428a-b1b7-3ef009a80d7a",
+      "resource": {
+        "category": [
+          {
+            "coding": [
+              {
+                "code": "laboratory",
+                "display": "laboratory",
+                "system": "http://terminology.hl7.org/CodeSystem/observation-category"
+              }
+            ]
+          }
+        ],
+        "code": {
+          "coding": [
+            {
+              "code": "18262-6",
+              "display": "Low Density Lipoprotein Cholesterol",
+              "system": "http://loinc.org"
+            }
+          ],
+          "text": "Low Density Lipoprotein Cholesterol"
+        },
+        "effectiveDateTime": "2017-02-17T17:25:24+01:00",
+        "extension": [
+          {
+            "url": "http://hl7.org/fhir/StructureDefinition/narrativeLink",
+            "valueUrl": "urn:uuid:fc8a1633-94fe-4b3b-b260-57b80828a1a1#Observation-urn:uuid:a22c5a98-6b0e-428a-b1b7-3ef009a80d7a"
+          }
+        ],
+        "issued": "2017-02-17T17:25:24.161+01:00",
+        "meta": {
+          "lastUpdated": "2024-09-20T16:04:56.758+02:00",
+          "source": "#yQdTMZlldMq3GnVF",
+          "versionId": "1"
+        },
+        "resourceType": "Observation",
+        "status": "final",
+        "subject": {
+          "reference": "urn:uuid:80fadea3-ab7c-492e-ac9d-bf8dc22f5afa"
+        },
+        "valueQuantity": {
+          "code": "mg/dL",
+          "system": "http://unitsofmeasure.org",
+          "unit": "mg/dL",
+          "value": 113
+        }
+      }
+    },
+    {
+      "fullUrl": "urn:uuid:fdfa5568-9130-4db1-bd93-212f29b68e2a",
+      "resource": {
+        "category": [
+          {
+            "coding": [
+              {
+                "code": "laboratory",
+                "display": "laboratory",
+                "system": "http://terminology.hl7.org/CodeSystem/observation-category"
+              }
+            ]
+          }
+        ],
+        "code": {
+          "coding": [
+            {
+              "code": "2085-9",
+              "display": "High Density Lipoprotein Cholesterol",
+              "system": "http://loinc.org"
+            }
+          ],
+          "text": "High Density Lipoprotein Cholesterol"
+        },
+        "effectiveDateTime": "2017-02-17T17:25:24+01:00",
+        "extension": [
+          {
+            "url": "http://hl7.org/fhir/StructureDefinition/narrativeLink",
+            "valueUrl": "urn:uuid:fc8a1633-94fe-4b3b-b260-57b80828a1a1#Observation-urn:uuid:fdfa5568-9130-4db1-bd93-212f29b68e2a"
+          }
+        ],
+        "issued": "2017-02-17T17:25:24.161+01:00",
+        "meta": {
+          "lastUpdated": "2024-09-20T16:04:56.758+02:00",
+          "source": "#yQdTMZlldMq3GnVF",
+          "versionId": "1"
+        },
+        "resourceType": "Observation",
+        "status": "final",
+        "subject": {
+          "reference": "urn:uuid:80fadea3-ab7c-492e-ac9d-bf8dc22f5afa"
+        },
+        "valueQuantity": {
+          "code": "mg/dL",
+          "system": "http://unitsofmeasure.org",
+          "unit": "mg/dL",
+          "value": 61.29
+        }
+      }
+    },
+    {
+      "fullUrl": "urn:uuid:b11bc1bb-6e24-446d-b0a1-a290e9c65ab3",
+      "resource": {
+        "category": [
+          {
+            "coding": [
+              {
+                "code": "laboratory",
+                "display": "laboratory",
+                "system": "http://terminology.hl7.org/CodeSystem/observation-category"
+              }
+            ]
+          }
+        ],
+        "code": {
+          "coding": [
+            {
+              "code": "2093-3",
+              "display": "Total Cholesterol",
+              "system": "http://loinc.org"
+            }
+          ],
+          "text": "Total Cholesterol"
+        },
+        "effectiveDateTime": "2020-02-21T17:25:24+01:00",
+        "extension": [
+          {
+            "url": "http://hl7.org/fhir/StructureDefinition/narrativeLink",
+            "valueUrl": "urn:uuid:fc8a1633-94fe-4b3b-b260-57b80828a1a1#Observation-urn:uuid:b11bc1bb-6e24-446d-b0a1-a290e9c65ab3"
+          }
+        ],
+        "issued": "2020-02-21T17:25:24.161+01:00",
+        "meta": {
+          "lastUpdated": "2024-09-20T16:04:56.758+02:00",
+          "source": "#yQdTMZlldMq3GnVF",
+          "versionId": "1"
+        },
+        "resourceType": "Observation",
+        "status": "final",
+        "subject": {
+          "reference": "urn:uuid:80fadea3-ab7c-492e-ac9d-bf8dc22f5afa"
+        },
+        "valueQuantity": {
+          "code": "mg/dL",
+          "system": "http://unitsofmeasure.org",
+          "unit": "mg/dL",
+          "value": 173.36
+        }
+      }
+    },
+    {
+      "fullUrl": "urn:uuid:7877fe27-fd92-475c-8d29-442a818d5cfb",
+      "resource": {
+        "category": [
+          {
+            "coding": [
+              {
+                "code": "laboratory",
+                "display": "laboratory",
+                "system": "http://terminology.hl7.org/CodeSystem/observation-category"
+              }
+            ]
+          }
+        ],
+        "code": {
+          "coding": [
+            {
+              "code": "2571-8",
+              "display": "Triglycerides",
+              "system": "http://loinc.org"
+            }
+          ],
+          "text": "Triglycerides"
+        },
+        "effectiveDateTime": "2020-02-21T17:25:24+01:00",
+        "extension": [
+          {
+            "url": "http://hl7.org/fhir/StructureDefinition/narrativeLink",
+            "valueUrl": "urn:uuid:fc8a1633-94fe-4b3b-b260-57b80828a1a1#Observation-urn:uuid:7877fe27-fd92-475c-8d29-442a818d5cfb"
+          }
+        ],
+        "issued": "2020-02-21T17:25:24.161+01:00",
+        "meta": {
+          "lastUpdated": "2024-09-20T16:04:56.758+02:00",
+          "source": "#yQdTMZlldMq3GnVF",
+          "versionId": "1"
+        },
+        "resourceType": "Observation",
+        "status": "final",
+        "subject": {
+          "reference": "urn:uuid:80fadea3-ab7c-492e-ac9d-bf8dc22f5afa"
+        },
+        "valueQuantity": {
+          "code": "mg/dL",
+          "system": "http://unitsofmeasure.org",
+          "unit": "mg/dL",
+          "value": 145.85
+        }
+      }
+    },
+    {
+      "fullUrl": "urn:uuid:b99391e1-73b4-4f90-8f36-247060439c1d",
+      "resource": {
+        "category": [
+          {
+            "coding": [
+              {
+                "code": "laboratory",
+                "display": "laboratory",
+                "system": "http://terminology.hl7.org/CodeSystem/observation-category"
+              }
+            ]
+          }
+        ],
+        "code": {
+          "coding": [
+            {
+              "code": "18262-6",
+              "display": "Low Density Lipoprotein Cholesterol",
+              "system": "http://loinc.org"
+            }
+          ],
+          "text": "Low Density Lipoprotein Cholesterol"
+        },
+        "effectiveDateTime": "2020-02-21T17:25:24+01:00",
+        "extension": [
+          {
+            "url": "http://hl7.org/fhir/StructureDefinition/narrativeLink",
+            "valueUrl": "urn:uuid:fc8a1633-94fe-4b3b-b260-57b80828a1a1#Observation-urn:uuid:b99391e1-73b4-4f90-8f36-247060439c1d"
+          }
+        ],
+        "issued": "2020-02-21T17:25:24.161+01:00",
+        "meta": {
+          "lastUpdated": "2024-09-20T16:04:56.758+02:00",
+          "source": "#yQdTMZlldMq3GnVF",
+          "versionId": "1"
+        },
+        "resourceType": "Observation",
+        "status": "final",
+        "subject": {
+          "reference": "urn:uuid:80fadea3-ab7c-492e-ac9d-bf8dc22f5afa"
+        },
+        "valueQuantity": {
+          "code": "mg/dL",
+          "system": "http://unitsofmeasure.org",
+          "unit": "mg/dL",
+          "value": 75.23
+        }
+      }
+    },
+    {
+      "fullUrl": "urn:uuid:22545a47-56bf-4935-91f6-b30cc9eb8e72",
+      "resource": {
+        "category": [
+          {
+            "coding": [
+              {
+                "code": "laboratory",
+                "display": "laboratory",
+                "system": "http://terminology.hl7.org/CodeSystem/observation-category"
+              }
+            ]
+          }
+        ],
+        "code": {
+          "coding": [
+            {
+              "code": "2085-9",
+              "display": "High Density Lipoprotein Cholesterol",
+              "system": "http://loinc.org"
+            }
+          ],
+          "text": "High Density Lipoprotein Cholesterol"
+        },
+        "effectiveDateTime": "2020-02-21T17:25:24+01:00",
+        "extension": [
+          {
+            "url": "http://hl7.org/fhir/StructureDefinition/narrativeLink",
+            "valueUrl": "urn:uuid:fc8a1633-94fe-4b3b-b260-57b80828a1a1#Observation-urn:uuid:22545a47-56bf-4935-91f6-b30cc9eb8e72"
+          }
+        ],
+        "issued": "2020-02-21T17:25:24.161+01:00",
+        "meta": {
+          "lastUpdated": "2024-09-20T16:04:56.758+02:00",
+          "source": "#yQdTMZlldMq3GnVF",
+          "versionId": "1"
+        },
+        "resourceType": "Observation",
+        "status": "final",
+        "subject": {
+          "reference": "urn:uuid:80fadea3-ab7c-492e-ac9d-bf8dc22f5afa"
+        },
+        "valueQuantity": {
+          "code": "mg/dL",
+          "system": "http://unitsofmeasure.org",
+          "unit": "mg/dL",
+          "value": 68.96
+        }
+      }
+    },
+    {
+      "fullUrl": "urn:uuid:0341f87d-b94c-4f74-adb8-44d70e5d7683",
+      "resource": {
+        "category": [
+          {
+            "coding": [
+              {
+                "code": "laboratory",
+                "display": "laboratory",
+                "system": "http://terminology.hl7.org/CodeSystem/observation-category"
+              }
+            ]
+          }
+        ],
+        "code": {
+          "coding": [
+            {
+              "code": "6690-2",
+              "display": "Leukocytes [#/volume] in Blood by Automated count",
+              "system": "http://loinc.org"
+            }
+          ],
+          "text": "Leukocytes [#/volume] in Blood by Automated count"
+        },
+        "effectiveDateTime": "2020-02-21T17:25:24+01:00",
+        "extension": [
+          {
+            "url": "http://hl7.org/fhir/StructureDefinition/narrativeLink",
+            "valueUrl": "urn:uuid:fc8a1633-94fe-4b3b-b260-57b80828a1a1#Observation-urn:uuid:0341f87d-b94c-4f74-adb8-44d70e5d7683"
+          }
+        ],
+        "issued": "2020-02-21T17:25:24.161+01:00",
+        "meta": {
+          "lastUpdated": "2024-09-20T16:04:56.758+02:00",
+          "source": "#yQdTMZlldMq3GnVF",
+          "versionId": "1"
+        },
+        "resourceType": "Observation",
+        "status": "final",
+        "subject": {
+          "reference": "urn:uuid:80fadea3-ab7c-492e-ac9d-bf8dc22f5afa"
+        },
+        "valueQuantity": {
+          "code": "10*3/uL",
+          "system": "http://unitsofmeasure.org",
+          "unit": "10*3/uL",
+          "value": 9.7211
+        }
+      }
+    },
+    {
+      "fullUrl": "urn:uuid:71154d02-692e-4778-809d-f7cca5aa4a16",
+      "resource": {
+        "category": [
+          {
+            "coding": [
+              {
+                "code": "laboratory",
+                "display": "laboratory",
+                "system": "http://terminology.hl7.org/CodeSystem/observation-category"
+              }
+            ]
+          }
+        ],
+        "code": {
+          "coding": [
+            {
+              "code": "789-8",
+              "display": "Erythrocytes [#/volume] in Blood by Automated count",
+              "system": "http://loinc.org"
+            }
+          ],
+          "text": "Erythrocytes [#/volume] in Blood by Automated count"
+        },
+        "effectiveDateTime": "2020-02-21T17:25:24+01:00",
+        "extension": [
+          {
+            "url": "http://hl7.org/fhir/StructureDefinition/narrativeLink",
+            "valueUrl": "urn:uuid:fc8a1633-94fe-4b3b-b260-57b80828a1a1#Observation-urn:uuid:71154d02-692e-4778-809d-f7cca5aa4a16"
+          }
+        ],
+        "issued": "2020-02-21T17:25:24.161+01:00",
+        "meta": {
+          "lastUpdated": "2024-09-20T16:04:56.758+02:00",
+          "source": "#yQdTMZlldMq3GnVF",
+          "versionId": "1"
+        },
+        "resourceType": "Observation",
+        "status": "final",
+        "subject": {
+          "reference": "urn:uuid:80fadea3-ab7c-492e-ac9d-bf8dc22f5afa"
+        },
+        "valueQuantity": {
+          "code": "10*6/uL",
+          "system": "http://unitsofmeasure.org",
+          "unit": "10*6/uL",
+          "value": 4.3044
+        }
+      }
+    },
+    {
+      "fullUrl": "urn:uuid:c2e8b9e9-f3ab-4fbb-9df8-56f0363d134c",
+      "resource": {
+        "category": [
+          {
+            "coding": [
+              {
+                "code": "laboratory",
+                "display": "laboratory",
+                "system": "http://terminology.hl7.org/CodeSystem/observation-category"
+              }
+            ]
+          }
+        ],
+        "code": {
+          "coding": [
+            {
+              "code": "718-7",
+              "display": "Hemoglobin [Mass/volume] in Blood",
+              "system": "http://loinc.org"
+            }
+          ],
+          "text": "Hemoglobin [Mass/volume] in Blood"
+        },
+        "effectiveDateTime": "2020-02-21T17:25:24+01:00",
+        "extension": [
+          {
+            "url": "http://hl7.org/fhir/StructureDefinition/narrativeLink",
+            "valueUrl": "urn:uuid:fc8a1633-94fe-4b3b-b260-57b80828a1a1#Observation-urn:uuid:c2e8b9e9-f3ab-4fbb-9df8-56f0363d134c"
+          }
+        ],
+        "issued": "2020-02-21T17:25:24.161+01:00",
+        "meta": {
+          "lastUpdated": "2024-09-20T16:04:56.758+02:00",
+          "source": "#yQdTMZlldMq3GnVF",
+          "versionId": "1"
+        },
+        "resourceType": "Observation",
+        "status": "final",
+        "subject": {
+          "reference": "urn:uuid:80fadea3-ab7c-492e-ac9d-bf8dc22f5afa"
+        },
+        "valueQuantity": {
+          "code": "g/dL",
+          "system": "http://unitsofmeasure.org",
+          "unit": "g/dL",
+          "value": 13.999
+        }
+      }
+    },
+    {
+      "fullUrl": "urn:uuid:e514f02c-6bcf-4575-bcd2-407de108d57b",
+      "resource": {
+        "category": [
+          {
+            "coding": [
+              {
+                "code": "laboratory",
+                "display": "laboratory",
+                "system": "http://terminology.hl7.org/CodeSystem/observation-category"
+              }
+            ]
+          }
+        ],
+        "code": {
+          "coding": [
+            {
+              "code": "4544-3",
+              "display": "Hematocrit [Volume Fraction] of Blood by Automated count",
+              "system": "http://loinc.org"
+            }
+          ],
+          "text": "Hematocrit [Volume Fraction] of Blood by Automated count"
+        },
+        "effectiveDateTime": "2020-02-21T17:25:24+01:00",
+        "extension": [
+          {
+            "url": "http://hl7.org/fhir/StructureDefinition/narrativeLink",
+            "valueUrl": "urn:uuid:fc8a1633-94fe-4b3b-b260-57b80828a1a1#Observation-urn:uuid:e514f02c-6bcf-4575-bcd2-407de108d57b"
+          }
+        ],
+        "issued": "2020-02-21T17:25:24.161+01:00",
+        "meta": {
+          "lastUpdated": "2024-09-20T16:04:56.758+02:00",
+          "source": "#yQdTMZlldMq3GnVF",
+          "versionId": "1"
+        },
+        "resourceType": "Observation",
+        "status": "final",
+        "subject": {
+          "reference": "urn:uuid:80fadea3-ab7c-492e-ac9d-bf8dc22f5afa"
+        },
+        "valueQuantity": {
+          "code": "%",
+          "system": "http://unitsofmeasure.org",
+          "unit": "%",
+          "value": 36.258
+        }
+      }
+    },
+    {
+      "fullUrl": "urn:uuid:56245ba9-1198-4fb2-ac0e-6af00ccce026",
+      "resource": {
+        "category": [
+          {
+            "coding": [
+              {
+                "code": "laboratory",
+                "display": "laboratory",
+                "system": "http://terminology.hl7.org/CodeSystem/observation-category"
+              }
+            ]
+          }
+        ],
+        "code": {
+          "coding": [
+            {
+              "code": "787-2",
+              "display": "MCV [Entitic volume] by Automated count",
+              "system": "http://loinc.org"
+            }
+          ],
+          "text": "MCV [Entitic volume] by Automated count"
+        },
+        "effectiveDateTime": "2020-02-21T17:25:24+01:00",
+        "extension": [
+          {
+            "url": "http://hl7.org/fhir/StructureDefinition/narrativeLink",
+            "valueUrl": "urn:uuid:fc8a1633-94fe-4b3b-b260-57b80828a1a1#Observation-urn:uuid:56245ba9-1198-4fb2-ac0e-6af00ccce026"
+          }
+        ],
+        "issued": "2020-02-21T17:25:24.161+01:00",
+        "meta": {
+          "lastUpdated": "2024-09-20T16:04:56.758+02:00",
+          "source": "#yQdTMZlldMq3GnVF",
+          "versionId": "1"
+        },
+        "resourceType": "Observation",
+        "status": "final",
+        "subject": {
+          "reference": "urn:uuid:80fadea3-ab7c-492e-ac9d-bf8dc22f5afa"
+        },
+        "valueQuantity": {
+          "code": "fL",
+          "system": "http://unitsofmeasure.org",
+          "unit": "fL",
+          "value": 89.573
+        }
+      }
+    },
+    {
+      "fullUrl": "urn:uuid:4243925d-2a7a-427b-acdb-f4e8eccd8c17",
+      "resource": {
+        "category": [
+          {
+            "coding": [
+              {
+                "code": "laboratory",
+                "display": "laboratory",
+                "system": "http://terminology.hl7.org/CodeSystem/observation-category"
+              }
+            ]
+          }
+        ],
+        "code": {
+          "coding": [
+            {
+              "code": "785-6",
+              "display": "MCH [Entitic mass] by Automated count",
+              "system": "http://loinc.org"
+            }
+          ],
+          "text": "MCH [Entitic mass] by Automated count"
+        },
+        "effectiveDateTime": "2020-02-21T17:25:24+01:00",
+        "extension": [
+          {
+            "url": "http://hl7.org/fhir/StructureDefinition/narrativeLink",
+            "valueUrl": "urn:uuid:fc8a1633-94fe-4b3b-b260-57b80828a1a1#Observation-urn:uuid:4243925d-2a7a-427b-acdb-f4e8eccd8c17"
+          }
+        ],
+        "issued": "2020-02-21T17:25:24.161+01:00",
+        "meta": {
+          "lastUpdated": "2024-09-20T16:04:56.758+02:00",
+          "source": "#yQdTMZlldMq3GnVF",
+          "versionId": "1"
+        },
+        "resourceType": "Observation",
+        "status": "final",
+        "subject": {
+          "reference": "urn:uuid:80fadea3-ab7c-492e-ac9d-bf8dc22f5afa"
+        },
+        "valueQuantity": {
+          "code": "pg",
+          "system": "http://unitsofmeasure.org",
+          "unit": "pg",
+          "value": 31.648
+        }
+      }
+    },
+    {
+      "fullUrl": "urn:uuid:ed9f277b-50e9-419c-8571-7fb00f73a894",
+      "resource": {
+        "category": [
+          {
+            "coding": [
+              {
+                "code": "laboratory",
+                "display": "laboratory",
+                "system": "http://terminology.hl7.org/CodeSystem/observation-category"
+              }
+            ]
+          }
+        ],
+        "code": {
+          "coding": [
+            {
+              "code": "786-4",
+              "display": "MCHC [Mass/volume] by Automated count",
+              "system": "http://loinc.org"
+            }
+          ],
+          "text": "MCHC [Mass/volume] by Automated count"
+        },
+        "effectiveDateTime": "2020-02-21T17:25:24+01:00",
+        "extension": [
+          {
+            "url": "http://hl7.org/fhir/StructureDefinition/narrativeLink",
+            "valueUrl": "urn:uuid:fc8a1633-94fe-4b3b-b260-57b80828a1a1#Observation-urn:uuid:ed9f277b-50e9-419c-8571-7fb00f73a894"
+          }
+        ],
+        "issued": "2020-02-21T17:25:24.161+01:00",
+        "meta": {
+          "lastUpdated": "2024-09-20T16:04:56.758+02:00",
+          "source": "#yQdTMZlldMq3GnVF",
+          "versionId": "1"
+        },
+        "resourceType": "Observation",
+        "status": "final",
+        "subject": {
+          "reference": "urn:uuid:80fadea3-ab7c-492e-ac9d-bf8dc22f5afa"
+        },
+        "valueQuantity": {
+          "code": "g/dL",
+          "system": "http://unitsofmeasure.org",
+          "unit": "g/dL",
+          "value": 33.95
+        }
+      }
+    },
+    {
+      "fullUrl": "urn:uuid:fe3662cc-9788-4e7b-83d2-00f1dd673f18",
+      "resource": {
+        "category": [
+          {
+            "coding": [
+              {
+                "code": "laboratory",
+                "display": "laboratory",
+                "system": "http://terminology.hl7.org/CodeSystem/observation-category"
+              }
+            ]
+          }
+        ],
+        "code": {
+          "coding": [
+            {
+              "code": "21000-5",
+              "display": "Erythrocyte distribution width [Entitic volume] by Automated count",
+              "system": "http://loinc.org"
+            }
+          ],
+          "text": "Erythrocyte distribution width [Entitic volume] by Automated count"
+        },
+        "effectiveDateTime": "2020-02-21T17:25:24+01:00",
+        "extension": [
+          {
+            "url": "http://hl7.org/fhir/StructureDefinition/narrativeLink",
+            "valueUrl": "urn:uuid:fc8a1633-94fe-4b3b-b260-57b80828a1a1#Observation-urn:uuid:fe3662cc-9788-4e7b-83d2-00f1dd673f18"
+          }
+        ],
+        "issued": "2020-02-21T17:25:24.161+01:00",
+        "meta": {
+          "lastUpdated": "2024-09-20T16:04:56.758+02:00",
+          "source": "#yQdTMZlldMq3GnVF",
+          "versionId": "1"
+        },
+        "resourceType": "Observation",
+        "status": "final",
+        "subject": {
+          "reference": "urn:uuid:80fadea3-ab7c-492e-ac9d-bf8dc22f5afa"
+        },
+        "valueQuantity": {
+          "code": "fL",
+          "system": "http://unitsofmeasure.org",
+          "unit": "fL",
+          "value": 43.918
+        }
+      }
+    },
+    {
+      "fullUrl": "urn:uuid:cb7a1c56-ddd4-41a6-b894-e3e01d4be0ac",
+      "resource": {
+        "category": [
+          {
+            "coding": [
+              {
+                "code": "laboratory",
+                "display": "laboratory",
+                "system": "http://terminology.hl7.org/CodeSystem/observation-category"
+              }
+            ]
+          }
+        ],
+        "code": {
+          "coding": [
+            {
+              "code": "777-3",
+              "display": "Platelets [#/volume] in Blood by Automated count",
+              "system": "http://loinc.org"
+            }
+          ],
+          "text": "Platelets [#/volume] in Blood by Automated count"
+        },
+        "effectiveDateTime": "2020-02-21T17:25:24+01:00",
+        "extension": [
+          {
+            "url": "http://hl7.org/fhir/StructureDefinition/narrativeLink",
+            "valueUrl": "urn:uuid:fc8a1633-94fe-4b3b-b260-57b80828a1a1#Observation-urn:uuid:cb7a1c56-ddd4-41a6-b894-e3e01d4be0ac"
+          }
+        ],
+        "issued": "2020-02-21T17:25:24.161+01:00",
+        "meta": {
+          "lastUpdated": "2024-09-20T16:04:56.758+02:00",
+          "source": "#yQdTMZlldMq3GnVF",
+          "versionId": "1"
+        },
+        "resourceType": "Observation",
+        "status": "final",
+        "subject": {
+          "reference": "urn:uuid:80fadea3-ab7c-492e-ac9d-bf8dc22f5afa"
+        },
+        "valueQuantity": {
+          "code": "10*3/uL",
+          "system": "http://unitsofmeasure.org",
+          "unit": "10*3/uL",
+          "value": 286.27
+        }
+      }
+    },
+    {
+      "fullUrl": "urn:uuid:58c812b5-a051-486c-ac70-ce3676f8d39c",
+      "resource": {
+        "category": [
+          {
+            "coding": [
+              {
+                "code": "laboratory",
+                "display": "laboratory",
+                "system": "http://terminology.hl7.org/CodeSystem/observation-category"
+              }
+            ]
+          }
+        ],
+        "code": {
+          "coding": [
+            {
+              "code": "32207-3",
+              "display": "Platelet distribution width [Entitic volume] in Blood by Automated count",
+              "system": "http://loinc.org"
+            }
+          ],
+          "text": "Platelet distribution width [Entitic volume] in Blood by Automated count"
+        },
+        "effectiveDateTime": "2020-02-21T17:25:24+01:00",
+        "extension": [
+          {
+            "url": "http://hl7.org/fhir/StructureDefinition/narrativeLink",
+            "valueUrl": "urn:uuid:fc8a1633-94fe-4b3b-b260-57b80828a1a1#Observation-urn:uuid:58c812b5-a051-486c-ac70-ce3676f8d39c"
+          }
+        ],
+        "issued": "2020-02-21T17:25:24.161+01:00",
+        "meta": {
+          "lastUpdated": "2024-09-20T16:04:56.758+02:00",
+          "source": "#yQdTMZlldMq3GnVF",
+          "versionId": "1"
+        },
+        "resourceType": "Observation",
+        "status": "final",
+        "subject": {
+          "reference": "urn:uuid:80fadea3-ab7c-492e-ac9d-bf8dc22f5afa"
+        },
+        "valueQuantity": {
+          "code": "fL",
+          "system": "http://unitsofmeasure.org",
+          "unit": "fL",
+          "value": 360.08
+        }
+      }
+    },
+    {
+      "fullUrl": "urn:uuid:043e8183-d067-4ded-95d7-bfa4fe121d7d",
+      "resource": {
+        "category": [
+          {
+            "coding": [
+              {
+                "code": "laboratory",
+                "display": "laboratory",
+                "system": "http://terminology.hl7.org/CodeSystem/observation-category"
+              }
+            ]
+          }
+        ],
+        "code": {
+          "coding": [
+            {
+              "code": "32623-1",
+              "display": "Platelet mean volume [Entitic volume] in Blood by Automated count",
+              "system": "http://loinc.org"
+            }
+          ],
+          "text": "Platelet mean volume [Entitic volume] in Blood by Automated count"
+        },
+        "effectiveDateTime": "2020-02-21T17:25:24+01:00",
+        "extension": [
+          {
+            "url": "http://hl7.org/fhir/StructureDefinition/narrativeLink",
+            "valueUrl": "urn:uuid:fc8a1633-94fe-4b3b-b260-57b80828a1a1#Observation-urn:uuid:043e8183-d067-4ded-95d7-bfa4fe121d7d"
+          }
+        ],
+        "issued": "2020-02-21T17:25:24.161+01:00",
+        "meta": {
+          "lastUpdated": "2024-09-20T16:04:56.758+02:00",
+          "source": "#yQdTMZlldMq3GnVF",
+          "versionId": "1"
+        },
+        "resourceType": "Observation",
+        "status": "final",
+        "subject": {
+          "reference": "urn:uuid:80fadea3-ab7c-492e-ac9d-bf8dc22f5afa"
+        },
+        "valueQuantity": {
+          "code": "fL",
+          "system": "http://unitsofmeasure.org",
+          "unit": "fL",
+          "value": 10.626
+        }
+      }
+    },
+    {
+      "fullUrl": "urn:uuid:4631afbd-ca2e-458e-a0cb-1172a0d5c46e",
+      "resource": {
+        "category": [
+          {
+            "coding": [
+              {
+                "code": "laboratory",
+                "display": "laboratory",
+                "system": "http://terminology.hl7.org/CodeSystem/observation-category"
+              }
+            ]
+          }
+        ],
+        "code": {
+          "coding": [
+            {
+              "code": "80382-5",
+              "display": "Influenza virus A Ag [Presence] in Nasopharynx by Rapid immunoassay",
+              "system": "http://loinc.org"
+            }
+          ],
+          "text": "Influenza virus A Ag [Presence] in Nasopharynx by Rapid immunoassay"
+        },
+        "effectiveDateTime": "2020-03-09T17:36:24+01:00",
+        "extension": [
+          {
+            "url": "http://hl7.org/fhir/StructureDefinition/narrativeLink",
+            "valueUrl": "urn:uuid:fc8a1633-94fe-4b3b-b260-57b80828a1a1#Observation-urn:uuid:4631afbd-ca2e-458e-a0cb-1172a0d5c46e"
+          }
+        ],
+        "issued": "2020-03-09T17:36:24.161+01:00",
+        "meta": {
+          "lastUpdated": "2024-09-20T16:04:56.758+02:00",
+          "source": "#yQdTMZlldMq3GnVF",
+          "versionId": "1"
+        },
+        "resourceType": "Observation",
+        "status": "final",
+        "subject": {
+          "reference": "urn:uuid:80fadea3-ab7c-492e-ac9d-bf8dc22f5afa"
+        },
+        "valueCodeableConcept": {
+          "coding": [
+            {
+              "code": "260415000",
+              "display": "Not detected (qualifier value)",
+              "system": "http://snomed.info/sct"
+            }
+          ],
+          "text": "Not detected (qualifier value)"
+        }
+      }
+    },
+    {
+      "fullUrl": "urn:uuid:1b895054-d222-4d97-8c70-e64e144efece",
+      "resource": {
+        "category": [
+          {
+            "coding": [
+              {
+                "code": "laboratory",
+                "display": "laboratory",
+                "system": "http://terminology.hl7.org/CodeSystem/observation-category"
+              }
+            ]
+          }
+        ],
+        "code": {
+          "coding": [
+            {
+              "code": "80383-3",
+              "display": "Influenza virus B Ag [Presence] in Nasopharynx by Rapid immunoassay",
+              "system": "http://loinc.org"
+            }
+          ],
+          "text": "Influenza virus B Ag [Presence] in Nasopharynx by Rapid immunoassay"
+        },
+        "effectiveDateTime": "2020-03-09T17:36:24+01:00",
+        "extension": [
+          {
+            "url": "http://hl7.org/fhir/StructureDefinition/narrativeLink",
+            "valueUrl": "urn:uuid:fc8a1633-94fe-4b3b-b260-57b80828a1a1#Observation-urn:uuid:1b895054-d222-4d97-8c70-e64e144efece"
+          }
+        ],
+        "issued": "2020-03-09T17:36:24.161+01:00",
+        "meta": {
+          "lastUpdated": "2024-09-20T16:04:56.758+02:00",
+          "source": "#yQdTMZlldMq3GnVF",
+          "versionId": "1"
+        },
+        "resourceType": "Observation",
+        "status": "final",
+        "subject": {
+          "reference": "urn:uuid:80fadea3-ab7c-492e-ac9d-bf8dc22f5afa"
+        },
+        "valueCodeableConcept": {
+          "coding": [
+            {
+              "code": "260415000",
+              "display": "Not detected (qualifier value)",
+              "system": "http://snomed.info/sct"
+            }
+          ],
+          "text": "Not detected (qualifier value)"
+        }
+      }
+    },
+    {
+      "fullUrl": "urn:uuid:e3d94f6a-0463-41f5-93d0-7f2209899a3e",
+      "resource": {
+        "category": [
+          {
+            "coding": [
+              {
+                "code": "laboratory",
+                "display": "laboratory",
+                "system": "http://terminology.hl7.org/CodeSystem/observation-category"
+              }
+            ]
+          }
+        ],
+        "code": {
+          "coding": [
+            {
+              "code": "94531-1",
+              "display": "SARS-CoV-2 RNA Pnl Resp NAA+probe",
+              "system": "http://loinc.org"
+            }
+          ],
+          "text": "SARS-CoV-2 RNA Pnl Resp NAA+probe"
+        },
+        "effectiveDateTime": "2020-03-09T19:02:24+01:00",
+        "extension": [
+          {
+            "url": "http://hl7.org/fhir/StructureDefinition/narrativeLink",
+            "valueUrl": "urn:uuid:fc8a1633-94fe-4b3b-b260-57b80828a1a1#Observation-urn:uuid:e3d94f6a-0463-41f5-93d0-7f2209899a3e"
+          }
+        ],
+        "issued": "2020-03-09T19:02:24.161+01:00",
+        "meta": {
+          "lastUpdated": "2024-09-20T16:04:56.758+02:00",
+          "source": "#yQdTMZlldMq3GnVF",
+          "versionId": "1"
+        },
+        "resourceType": "Observation",
+        "status": "final",
+        "subject": {
+          "reference": "urn:uuid:80fadea3-ab7c-492e-ac9d-bf8dc22f5afa"
+        },
+        "valueCodeableConcept": {
+          "coding": [
+            {
+              "code": "260373001",
+              "display": "Detected (qualifier value)",
+              "system": "http://snomed.info/sct"
+            }
+          ],
+          "text": "Detected (qualifier value)"
+        }
+      }
+    },
+    {
+      "fullUrl": "urn:uuid:60c45794-ab7f-4aec-8c3a-2df3c4878605",
+      "resource": {
+        "category": [
+          {
+            "coding": [
+              {
+                "code": "laboratory",
+                "display": "laboratory",
+                "system": "http://terminology.hl7.org/CodeSystem/observation-category"
+              }
+            ]
+          }
+        ],
+        "code": {
+          "coding": [
+            {
+              "code": "2093-3",
+              "display": "Total Cholesterol",
+              "system": "http://loinc.org"
+            }
+          ],
+          "text": "Total Cholesterol"
+        },
+        "effectiveDateTime": "2023-02-24T17:25:24+01:00",
+        "extension": [
+          {
+            "url": "http://hl7.org/fhir/StructureDefinition/narrativeLink",
+            "valueUrl": "urn:uuid:fc8a1633-94fe-4b3b-b260-57b80828a1a1#Observation-urn:uuid:60c45794-ab7f-4aec-8c3a-2df3c4878605"
+          }
+        ],
+        "issued": "2023-02-24T17:25:24.161+01:00",
+        "meta": {
+          "lastUpdated": "2024-09-20T16:04:56.758+02:00",
+          "source": "#yQdTMZlldMq3GnVF",
+          "versionId": "1"
+        },
+        "resourceType": "Observation",
+        "status": "final",
+        "subject": {
+          "reference": "urn:uuid:80fadea3-ab7c-492e-ac9d-bf8dc22f5afa"
+        },
+        "valueQuantity": {
+          "code": "mg/dL",
+          "system": "http://unitsofmeasure.org",
+          "unit": "mg/dL",
+          "value": 162.1
+        }
+      }
+    },
+    {
+      "fullUrl": "urn:uuid:06091ffa-9bf9-4412-b073-5a6287e7230f",
+      "resource": {
+        "category": [
+          {
+            "coding": [
+              {
+                "code": "laboratory",
+                "display": "laboratory",
+                "system": "http://terminology.hl7.org/CodeSystem/observation-category"
+              }
+            ]
+          }
+        ],
+        "code": {
+          "coding": [
+            {
+              "code": "2571-8",
+              "display": "Triglycerides",
+              "system": "http://loinc.org"
+            }
+          ],
+          "text": "Triglycerides"
+        },
+        "effectiveDateTime": "2023-02-24T17:25:24+01:00",
+        "extension": [
+          {
+            "url": "http://hl7.org/fhir/StructureDefinition/narrativeLink",
+            "valueUrl": "urn:uuid:fc8a1633-94fe-4b3b-b260-57b80828a1a1#Observation-urn:uuid:06091ffa-9bf9-4412-b073-5a6287e7230f"
+          }
+        ],
+        "issued": "2023-02-24T17:25:24.161+01:00",
+        "meta": {
+          "lastUpdated": "2024-09-20T16:04:56.758+02:00",
+          "source": "#yQdTMZlldMq3GnVF",
+          "versionId": "1"
+        },
+        "resourceType": "Observation",
+        "status": "final",
+        "subject": {
+          "reference": "urn:uuid:80fadea3-ab7c-492e-ac9d-bf8dc22f5afa"
+        },
+        "valueQuantity": {
+          "code": "mg/dL",
+          "system": "http://unitsofmeasure.org",
+          "unit": "mg/dL",
+          "value": 141.54
+        }
+      }
+    },
+    {
+      "fullUrl": "urn:uuid:e2eec6b1-79c9-4a65-ad04-c3480a3b7e9c",
+      "resource": {
+        "category": [
+          {
+            "coding": [
+              {
+                "code": "laboratory",
+                "display": "laboratory",
+                "system": "http://terminology.hl7.org/CodeSystem/observation-category"
+              }
+            ]
+          }
+        ],
+        "code": {
+          "coding": [
+            {
+              "code": "18262-6",
+              "display": "Low Density Lipoprotein Cholesterol",
+              "system": "http://loinc.org"
+            }
+          ],
+          "text": "Low Density Lipoprotein Cholesterol"
+        },
+        "effectiveDateTime": "2023-02-24T17:25:24+01:00",
+        "extension": [
+          {
+            "url": "http://hl7.org/fhir/StructureDefinition/narrativeLink",
+            "valueUrl": "urn:uuid:fc8a1633-94fe-4b3b-b260-57b80828a1a1#Observation-urn:uuid:e2eec6b1-79c9-4a65-ad04-c3480a3b7e9c"
+          }
+        ],
+        "issued": "2023-02-24T17:25:24.161+01:00",
+        "meta": {
+          "lastUpdated": "2024-09-20T16:04:56.758+02:00",
+          "source": "#yQdTMZlldMq3GnVF",
+          "versionId": "1"
+        },
+        "resourceType": "Observation",
+        "status": "final",
+        "subject": {
+          "reference": "urn:uuid:80fadea3-ab7c-492e-ac9d-bf8dc22f5afa"
+        },
+        "valueQuantity": {
+          "code": "mg/dL",
+          "system": "http://unitsofmeasure.org",
+          "unit": "mg/dL",
+          "value": 54.8
+        }
+      }
+    },
+    {
+      "fullUrl": "urn:uuid:fe918c00-9e20-47bc-b479-6f45bda35b72",
+      "resource": {
+        "category": [
+          {
+            "coding": [
+              {
+                "code": "laboratory",
+                "display": "laboratory",
+                "system": "http://terminology.hl7.org/CodeSystem/observation-category"
+              }
+            ]
+          }
+        ],
+        "code": {
+          "coding": [
+            {
+              "code": "2085-9",
+              "display": "High Density Lipoprotein Cholesterol",
+              "system": "http://loinc.org"
+            }
+          ],
+          "text": "High Density Lipoprotein Cholesterol"
+        },
+        "effectiveDateTime": "2023-02-24T17:25:24+01:00",
+        "extension": [
+          {
+            "url": "http://hl7.org/fhir/StructureDefinition/narrativeLink",
+            "valueUrl": "urn:uuid:fc8a1633-94fe-4b3b-b260-57b80828a1a1#Observation-urn:uuid:fe918c00-9e20-47bc-b479-6f45bda35b72"
+          }
+        ],
+        "issued": "2023-02-24T17:25:24.161+01:00",
+        "meta": {
+          "lastUpdated": "2024-09-20T16:04:56.758+02:00",
+          "source": "#yQdTMZlldMq3GnVF",
+          "versionId": "1"
+        },
+        "resourceType": "Observation",
+        "status": "final",
+        "subject": {
+          "reference": "urn:uuid:80fadea3-ab7c-492e-ac9d-bf8dc22f5afa"
+        },
+        "valueQuantity": {
+          "code": "mg/dL",
+          "system": "http://unitsofmeasure.org",
+          "unit": "mg/dL",
+          "value": 78.99
+        }
+      }
+    },
+    {
+      "fullUrl": "urn:uuid:901bd102-9482-4257-954c-2ee99f4e4fd7",
+      "resource": {
+        "category": [
+          {
+            "coding": [
+              {
+                "code": "laboratory",
+                "display": "laboratory",
+                "system": "http://terminology.hl7.org/CodeSystem/observation-category"
+              }
+            ]
+          }
+        ],
+        "code": {
+          "coding": [
+            {
+              "code": "4548-4",
+              "display": "Hemoglobin A1c/Hemoglobin.total in Blood",
+              "system": "http://loinc.org"
+            }
+          ],
+          "text": "Hemoglobin A1c/Hemoglobin.total in Blood"
+        },
+        "effectiveDateTime": "2023-02-24T17:25:24+01:00",
+        "extension": [
+          {
+            "url": "http://hl7.org/fhir/StructureDefinition/narrativeLink",
+            "valueUrl": "urn:uuid:fc8a1633-94fe-4b3b-b260-57b80828a1a1#Observation-urn:uuid:901bd102-9482-4257-954c-2ee99f4e4fd7"
+          }
+        ],
+        "issued": "2023-02-24T17:25:24.161+01:00",
+        "meta": {
+          "lastUpdated": "2024-09-20T16:04:56.758+02:00",
+          "source": "#yQdTMZlldMq3GnVF",
+          "versionId": "1"
+        },
+        "resourceType": "Observation",
+        "status": "final",
+        "subject": {
+          "reference": "urn:uuid:80fadea3-ab7c-492e-ac9d-bf8dc22f5afa"
+        },
+        "valueQuantity": {
+          "code": "%",
+          "system": "http://unitsofmeasure.org",
+          "unit": "%",
+          "value": 5.85
+        }
+      }
+    },
+    {
+      "fullUrl": "urn:uuid:e65eb4ed-e0cd-4705-82bf-70dd496316f1",
+      "resource": {
+        "category": [
+          {
+            "coding": [
+              {
+                "code": "vital-signs",
+                "display": "vital-signs",
+                "system": "http://terminology.hl7.org/CodeSystem/observation-category"
+              }
+            ]
+          }
+        ],
+        "code": {
+          "coding": [
+            {
+              "code": "8302-2",
+              "display": "Body Height",
+              "system": "http://loinc.org"
+            }
+          ],
+          "text": "Body Height"
+        },
+        "effectiveDateTime": "2017-02-17T17:25:24+01:00",
+        "extension": [
+          {
+            "url": "http://hl7.org/fhir/StructureDefinition/narrativeLink",
+            "valueUrl": "urn:uuid:fc8a1633-94fe-4b3b-b260-57b80828a1a1#Observation-urn:uuid:e65eb4ed-e0cd-4705-82bf-70dd496316f1"
+          }
+        ],
+        "issued": "2017-02-17T17:25:24.161+01:00",
+        "meta": {
+          "lastUpdated": "2024-09-20T16:04:56.758+02:00",
+          "source": "#yQdTMZlldMq3GnVF",
+          "versionId": "1"
+        },
+        "resourceType": "Observation",
+        "status": "final",
+        "subject": {
+          "reference": "urn:uuid:80fadea3-ab7c-492e-ac9d-bf8dc22f5afa"
+        },
+        "valueQuantity": {
+          "code": "cm",
+          "system": "http://unitsofmeasure.org",
+          "unit": "cm",
+          "value": 180
+        }
+      }
+    },
+    {
+      "fullUrl": "urn:uuid:2b2893fe-1b68-426a-ab01-edc938bdfd1e",
+      "resource": {
+        "category": [
+          {
+            "coding": [
+              {
+                "code": "vital-signs",
+                "display": "vital-signs",
+                "system": "http://terminology.hl7.org/CodeSystem/observation-category"
+              }
+            ]
+          }
+        ],
+        "code": {
+          "coding": [
+            {
+              "code": "72514-3",
+              "display": "Pain severity - 0-10 verbal numeric rating [Score] - Reported",
+              "system": "http://loinc.org"
+            }
+          ],
+          "text": "Pain severity - 0-10 verbal numeric rating [Score] - Reported"
+        },
+        "effectiveDateTime": "2017-02-17T17:25:24+01:00",
+        "extension": [
+          {
+            "url": "http://hl7.org/fhir/StructureDefinition/narrativeLink",
+            "valueUrl": "urn:uuid:fc8a1633-94fe-4b3b-b260-57b80828a1a1#Observation-urn:uuid:2b2893fe-1b68-426a-ab01-edc938bdfd1e"
+          }
+        ],
+        "issued": "2017-02-17T17:25:24.161+01:00",
+        "meta": {
+          "lastUpdated": "2024-09-20T16:04:56.758+02:00",
+          "source": "#yQdTMZlldMq3GnVF",
+          "versionId": "1"
+        },
+        "resourceType": "Observation",
+        "status": "final",
+        "subject": {
+          "reference": "urn:uuid:80fadea3-ab7c-492e-ac9d-bf8dc22f5afa"
+        },
+        "valueQuantity": {
+          "code": "{score}",
+          "system": "http://unitsofmeasure.org",
+          "unit": "{score}",
+          "value": 1
+        }
+      }
+    },
+    {
+      "fullUrl": "urn:uuid:c0085819-802c-46a4-a28a-b8bb8fa43299",
+      "resource": {
+        "category": [
+          {
+            "coding": [
+              {
+                "code": "vital-signs",
+                "display": "vital-signs",
+                "system": "http://terminology.hl7.org/CodeSystem/observation-category"
+              }
+            ]
+          }
+        ],
+        "code": {
+          "coding": [
+            {
+              "code": "29463-7",
+              "display": "Body Weight",
+              "system": "http://loinc.org"
+            }
+          ],
+          "text": "Body Weight"
+        },
+        "effectiveDateTime": "2017-02-17T17:25:24+01:00",
+        "extension": [
+          {
+            "url": "http://hl7.org/fhir/StructureDefinition/narrativeLink",
+            "valueUrl": "urn:uuid:fc8a1633-94fe-4b3b-b260-57b80828a1a1#Observation-urn:uuid:c0085819-802c-46a4-a28a-b8bb8fa43299"
+          }
+        ],
+        "issued": "2017-02-17T17:25:24.161+01:00",
+        "meta": {
+          "lastUpdated": "2024-09-20T16:04:56.758+02:00",
+          "source": "#yQdTMZlldMq3GnVF",
+          "versionId": "1"
+        },
+        "resourceType": "Observation",
+        "status": "final",
+        "subject": {
+          "reference": "urn:uuid:80fadea3-ab7c-492e-ac9d-bf8dc22f5afa"
+        },
+        "valueQuantity": {
+          "code": "kg",
+          "system": "http://unitsofmeasure.org",
+          "unit": "kg",
+          "value": 77
+        }
+      }
+    },
+    {
+      "fullUrl": "urn:uuid:2a818b0f-926b-4e72-b700-06256073dd17",
+      "resource": {
+        "category": [
+          {
+            "coding": [
+              {
+                "code": "vital-signs",
+                "display": "vital-signs",
+                "system": "http://terminology.hl7.org/CodeSystem/observation-category"
+              }
+            ]
+          }
+        ],
+        "code": {
+          "coding": [
+            {
+              "code": "39156-5",
+              "display": "Body Mass Index",
+              "system": "http://loinc.org"
+            }
+          ],
+          "text": "Body Mass Index"
+        },
+        "effectiveDateTime": "2017-02-17T17:25:24+01:00",
+        "extension": [
+          {
+            "url": "http://hl7.org/fhir/StructureDefinition/narrativeLink",
+            "valueUrl": "urn:uuid:fc8a1633-94fe-4b3b-b260-57b80828a1a1#Observation-urn:uuid:2a818b0f-926b-4e72-b700-06256073dd17"
+          }
+        ],
+        "issued": "2017-02-17T17:25:24.161+01:00",
+        "meta": {
+          "lastUpdated": "2024-09-20T16:04:56.758+02:00",
+          "source": "#yQdTMZlldMq3GnVF",
+          "versionId": "1"
+        },
+        "resourceType": "Observation",
+        "status": "final",
+        "subject": {
+          "reference": "urn:uuid:80fadea3-ab7c-492e-ac9d-bf8dc22f5afa"
+        },
+        "valueQuantity": {
+          "code": "kg/m2",
+          "system": "http://unitsofmeasure.org",
+          "unit": "kg/m2",
+          "value": 23.78
+        }
+      }
+    },
+    {
+      "fullUrl": "urn:uuid:ac84bd81-b47a-4687-8f05-7de47a949c43",
+      "resource": {
+        "category": [
+          {
+            "coding": [
+              {
+                "code": "vital-signs",
+                "display": "vital-signs",
+                "system": "http://terminology.hl7.org/CodeSystem/observation-category"
+              }
+            ]
+          }
+        ],
+        "code": {
+          "coding": [
+            {
+              "code": "85354-9",
+              "display": "Blood Pressure",
+              "system": "http://loinc.org"
+            }
+          ],
+          "text": "Blood Pressure"
+        },
+        "component": [
+          {
+            "code": {
+              "coding": [
+                {
+                  "code": "8462-4",
+                  "display": "Diastolic Blood Pressure",
+                  "system": "http://loinc.org"
+                }
+              ],
+              "text": "Diastolic Blood Pressure"
+            },
+            "valueQuantity": {
+              "code": "mm[Hg]",
+              "system": "http://unitsofmeasure.org",
+              "unit": "mm[Hg]",
+              "value": 74
+            }
+          },
+          {
+            "code": {
+              "coding": [
+                {
+                  "code": "8480-6",
+                  "display": "Systolic Blood Pressure",
+                  "system": "http://loinc.org"
+                }
+              ],
+              "text": "Systolic Blood Pressure"
+            },
+            "valueQuantity": {
+              "code": "mm[Hg]",
+              "system": "http://unitsofmeasure.org",
+              "unit": "mm[Hg]",
+              "value": 136
+            }
+          }
+        ],
+        "effectiveDateTime": "2017-02-17T17:25:24+01:00",
+        "extension": [
+          {
+            "url": "http://hl7.org/fhir/StructureDefinition/narrativeLink",
+            "valueUrl": "urn:uuid:fc8a1633-94fe-4b3b-b260-57b80828a1a1#Observation-urn:uuid:ac84bd81-b47a-4687-8f05-7de47a949c43"
+          }
+        ],
+        "issued": "2017-02-17T17:25:24.161+01:00",
+        "meta": {
+          "lastUpdated": "2024-09-20T16:04:56.758+02:00",
+          "source": "#yQdTMZlldMq3GnVF",
+          "versionId": "1"
+        },
+        "resourceType": "Observation",
+        "status": "final",
+        "subject": {
+          "reference": "urn:uuid:80fadea3-ab7c-492e-ac9d-bf8dc22f5afa"
+        }
+      }
+    },
+    {
+      "fullUrl": "urn:uuid:45e0f17e-c8ea-42f7-adde-62ea9c1906ad",
+      "resource": {
+        "category": [
+          {
+            "coding": [
+              {
+                "code": "vital-signs",
+                "display": "vital-signs",
+                "system": "http://terminology.hl7.org/CodeSystem/observation-category"
+              }
+            ]
+          }
+        ],
+        "code": {
+          "coding": [
+            {
+              "code": "8867-4",
+              "display": "Heart rate",
+              "system": "http://loinc.org"
+            }
+          ],
+          "text": "Heart rate"
+        },
+        "effectiveDateTime": "2017-02-17T17:25:24+01:00",
+        "extension": [
+          {
+            "url": "http://hl7.org/fhir/StructureDefinition/narrativeLink",
+            "valueUrl": "urn:uuid:fc8a1633-94fe-4b3b-b260-57b80828a1a1#Observation-urn:uuid:45e0f17e-c8ea-42f7-adde-62ea9c1906ad"
+          }
+        ],
+        "issued": "2017-02-17T17:25:24.161+01:00",
+        "meta": {
+          "lastUpdated": "2024-09-20T16:04:56.758+02:00",
+          "source": "#yQdTMZlldMq3GnVF",
+          "versionId": "1"
+        },
+        "resourceType": "Observation",
+        "status": "final",
+        "subject": {
+          "reference": "urn:uuid:80fadea3-ab7c-492e-ac9d-bf8dc22f5afa"
+        },
+        "valueQuantity": {
+          "code": "/min",
+          "system": "http://unitsofmeasure.org",
+          "unit": "/min",
+          "value": 68
+        }
+      }
+    },
+    {
+      "fullUrl": "urn:uuid:2e12f190-ad6d-49fc-bfcf-93da53f73665",
+      "resource": {
+        "category": [
+          {
+            "coding": [
+              {
+                "code": "vital-signs",
+                "display": "vital-signs",
+                "system": "http://terminology.hl7.org/CodeSystem/observation-category"
+              }
+            ]
+          }
+        ],
+        "code": {
+          "coding": [
+            {
+              "code": "9279-1",
+              "display": "Respiratory rate",
+              "system": "http://loinc.org"
+            }
+          ],
+          "text": "Respiratory rate"
+        },
+        "effectiveDateTime": "2017-02-17T17:25:24+01:00",
+        "extension": [
+          {
+            "url": "http://hl7.org/fhir/StructureDefinition/narrativeLink",
+            "valueUrl": "urn:uuid:fc8a1633-94fe-4b3b-b260-57b80828a1a1#Observation-urn:uuid:2e12f190-ad6d-49fc-bfcf-93da53f73665"
+          }
+        ],
+        "issued": "2017-02-17T17:25:24.161+01:00",
+        "meta": {
+          "lastUpdated": "2024-09-20T16:04:56.758+02:00",
+          "source": "#yQdTMZlldMq3GnVF",
+          "versionId": "1"
+        },
+        "resourceType": "Observation",
+        "status": "final",
+        "subject": {
+          "reference": "urn:uuid:80fadea3-ab7c-492e-ac9d-bf8dc22f5afa"
+        },
+        "valueQuantity": {
+          "code": "/min",
+          "system": "http://unitsofmeasure.org",
+          "unit": "/min",
+          "value": 12
+        }
+      }
+    },
+    {
+      "fullUrl": "urn:uuid:dad6debb-c271-403c-9b59-6e0eceb86a93",
+      "resource": {
+        "category": [
+          {
+            "coding": [
+              {
+                "code": "vital-signs",
+                "display": "vital-signs",
+                "system": "http://terminology.hl7.org/CodeSystem/observation-category"
+              }
+            ]
+          }
+        ],
+        "code": {
+          "coding": [
+            {
+              "code": "8302-2",
+              "display": "Body Height",
+              "system": "http://loinc.org"
+            }
+          ],
+          "text": "Body Height"
+        },
+        "effectiveDateTime": "2020-02-21T17:25:24+01:00",
+        "extension": [
+          {
+            "url": "http://hl7.org/fhir/StructureDefinition/narrativeLink",
+            "valueUrl": "urn:uuid:fc8a1633-94fe-4b3b-b260-57b80828a1a1#Observation-urn:uuid:dad6debb-c271-403c-9b59-6e0eceb86a93"
+          }
+        ],
+        "issued": "2020-02-21T17:25:24.161+01:00",
+        "meta": {
+          "lastUpdated": "2024-09-20T16:04:56.758+02:00",
+          "source": "#yQdTMZlldMq3GnVF",
+          "versionId": "1"
+        },
+        "resourceType": "Observation",
+        "status": "final",
+        "subject": {
+          "reference": "urn:uuid:80fadea3-ab7c-492e-ac9d-bf8dc22f5afa"
+        },
+        "valueQuantity": {
+          "code": "cm",
+          "system": "http://unitsofmeasure.org",
+          "unit": "cm",
+          "value": 180
+        }
+      }
+    },
+    {
+      "fullUrl": "urn:uuid:7c286f5a-9b2c-496b-9ab4-14acf1fd2ce6",
+      "resource": {
+        "category": [
+          {
+            "coding": [
+              {
+                "code": "vital-signs",
+                "display": "vital-signs",
+                "system": "http://terminology.hl7.org/CodeSystem/observation-category"
+              }
+            ]
+          }
+        ],
+        "code": {
+          "coding": [
+            {
+              "code": "72514-3",
+              "display": "Pain severity - 0-10 verbal numeric rating [Score] - Reported",
+              "system": "http://loinc.org"
+            }
+          ],
+          "text": "Pain severity - 0-10 verbal numeric rating [Score] - Reported"
+        },
+        "effectiveDateTime": "2020-02-21T17:25:24+01:00",
+        "extension": [
+          {
+            "url": "http://hl7.org/fhir/StructureDefinition/narrativeLink",
+            "valueUrl": "urn:uuid:fc8a1633-94fe-4b3b-b260-57b80828a1a1#Observation-urn:uuid:7c286f5a-9b2c-496b-9ab4-14acf1fd2ce6"
+          }
+        ],
+        "issued": "2020-02-21T17:25:24.161+01:00",
+        "meta": {
+          "lastUpdated": "2024-09-20T16:04:56.758+02:00",
+          "source": "#yQdTMZlldMq3GnVF",
+          "versionId": "1"
+        },
+        "resourceType": "Observation",
+        "status": "final",
+        "subject": {
+          "reference": "urn:uuid:80fadea3-ab7c-492e-ac9d-bf8dc22f5afa"
+        },
+        "valueQuantity": {
+          "code": "{score}",
+          "system": "http://unitsofmeasure.org",
+          "unit": "{score}",
+          "value": 0
+        }
+      }
+    },
+    {
+      "fullUrl": "urn:uuid:9ca2ccec-15b2-481a-8fc6-132f1a148522",
+      "resource": {
+        "category": [
+          {
+            "coding": [
+              {
+                "code": "vital-signs",
+                "display": "vital-signs",
+                "system": "http://terminology.hl7.org/CodeSystem/observation-category"
+              }
+            ]
+          }
+        ],
+        "code": {
+          "coding": [
+            {
+              "code": "29463-7",
+              "display": "Body Weight",
+              "system": "http://loinc.org"
+            }
+          ],
+          "text": "Body Weight"
+        },
+        "effectiveDateTime": "2020-02-21T17:25:24+01:00",
+        "extension": [
+          {
+            "url": "http://hl7.org/fhir/StructureDefinition/narrativeLink",
+            "valueUrl": "urn:uuid:fc8a1633-94fe-4b3b-b260-57b80828a1a1#Observation-urn:uuid:9ca2ccec-15b2-481a-8fc6-132f1a148522"
+          }
+        ],
+        "issued": "2020-02-21T17:25:24.161+01:00",
+        "meta": {
+          "lastUpdated": "2024-09-20T16:04:56.758+02:00",
+          "source": "#yQdTMZlldMq3GnVF",
+          "versionId": "1"
+        },
+        "resourceType": "Observation",
+        "status": "final",
+        "subject": {
+          "reference": "urn:uuid:80fadea3-ab7c-492e-ac9d-bf8dc22f5afa"
+        },
+        "valueQuantity": {
+          "code": "kg",
+          "system": "http://unitsofmeasure.org",
+          "unit": "kg",
+          "value": 80.9
+        }
+      }
+    },
+    {
+      "fullUrl": "urn:uuid:54dc888e-9284-4d25-8545-af6bbbc5731b",
+      "resource": {
+        "category": [
+          {
+            "coding": [
+              {
+                "code": "vital-signs",
+                "display": "vital-signs",
+                "system": "http://terminology.hl7.org/CodeSystem/observation-category"
+              }
+            ]
+          }
+        ],
+        "code": {
+          "coding": [
+            {
+              "code": "39156-5",
+              "display": "Body Mass Index",
+              "system": "http://loinc.org"
+            }
+          ],
+          "text": "Body Mass Index"
+        },
+        "effectiveDateTime": "2020-02-21T17:25:24+01:00",
+        "extension": [
+          {
+            "url": "http://hl7.org/fhir/StructureDefinition/narrativeLink",
+            "valueUrl": "urn:uuid:fc8a1633-94fe-4b3b-b260-57b80828a1a1#Observation-urn:uuid:54dc888e-9284-4d25-8545-af6bbbc5731b"
+          }
+        ],
+        "issued": "2020-02-21T17:25:24.161+01:00",
+        "meta": {
+          "lastUpdated": "2024-09-20T16:04:56.758+02:00",
+          "source": "#yQdTMZlldMq3GnVF",
+          "versionId": "1"
+        },
+        "resourceType": "Observation",
+        "status": "final",
+        "subject": {
+          "reference": "urn:uuid:80fadea3-ab7c-492e-ac9d-bf8dc22f5afa"
+        },
+        "valueQuantity": {
+          "code": "kg/m2",
+          "system": "http://unitsofmeasure.org",
+          "unit": "kg/m2",
+          "value": 24.98
+        }
+      }
+    },
+    {
+      "fullUrl": "urn:uuid:df060b84-3de0-44fb-93ac-72a353ed5b60",
+      "resource": {
+        "category": [
+          {
+            "coding": [
+              {
+                "code": "vital-signs",
+                "display": "vital-signs",
+                "system": "http://terminology.hl7.org/CodeSystem/observation-category"
+              }
+            ]
+          }
+        ],
+        "code": {
+          "coding": [
+            {
+              "code": "85354-9",
+              "display": "Blood Pressure",
+              "system": "http://loinc.org"
+            }
+          ],
+          "text": "Blood Pressure"
+        },
+        "component": [
+          {
+            "code": {
+              "coding": [
+                {
+                  "code": "8462-4",
+                  "display": "Diastolic Blood Pressure",
+                  "system": "http://loinc.org"
+                }
+              ],
+              "text": "Diastolic Blood Pressure"
+            },
+            "valueQuantity": {
+              "code": "mm[Hg]",
+              "system": "http://unitsofmeasure.org",
+              "unit": "mm[Hg]",
+              "value": 77
+            }
+          },
+          {
+            "code": {
+              "coding": [
+                {
+                  "code": "8480-6",
+                  "display": "Systolic Blood Pressure",
+                  "system": "http://loinc.org"
+                }
+              ],
+              "text": "Systolic Blood Pressure"
+            },
+            "valueQuantity": {
+              "code": "mm[Hg]",
+              "system": "http://unitsofmeasure.org",
+              "unit": "mm[Hg]",
+              "value": 110
+            }
+          }
+        ],
+        "effectiveDateTime": "2020-02-21T17:25:24+01:00",
+        "extension": [
+          {
+            "url": "http://hl7.org/fhir/StructureDefinition/narrativeLink",
+            "valueUrl": "urn:uuid:fc8a1633-94fe-4b3b-b260-57b80828a1a1#Observation-urn:uuid:df060b84-3de0-44fb-93ac-72a353ed5b60"
+          }
+        ],
+        "issued": "2020-02-21T17:25:24.161+01:00",
+        "meta": {
+          "lastUpdated": "2024-09-20T16:04:56.758+02:00",
+          "source": "#yQdTMZlldMq3GnVF",
+          "versionId": "1"
+        },
+        "resourceType": "Observation",
+        "status": "final",
+        "subject": {
+          "reference": "urn:uuid:80fadea3-ab7c-492e-ac9d-bf8dc22f5afa"
+        }
+      }
+    },
+    {
+      "fullUrl": "urn:uuid:37c22062-94d0-4c43-aad3-6f7057ed4882",
+      "resource": {
+        "category": [
+          {
+            "coding": [
+              {
+                "code": "vital-signs",
+                "display": "vital-signs",
+                "system": "http://terminology.hl7.org/CodeSystem/observation-category"
+              }
+            ]
+          }
+        ],
+        "code": {
+          "coding": [
+            {
+              "code": "8867-4",
+              "display": "Heart rate",
+              "system": "http://loinc.org"
+            }
+          ],
+          "text": "Heart rate"
+        },
+        "effectiveDateTime": "2020-02-21T17:25:24+01:00",
+        "extension": [
+          {
+            "url": "http://hl7.org/fhir/StructureDefinition/narrativeLink",
+            "valueUrl": "urn:uuid:fc8a1633-94fe-4b3b-b260-57b80828a1a1#Observation-urn:uuid:37c22062-94d0-4c43-aad3-6f7057ed4882"
+          }
+        ],
+        "issued": "2020-02-21T17:25:24.161+01:00",
+        "meta": {
+          "lastUpdated": "2024-09-20T16:04:56.758+02:00",
+          "source": "#yQdTMZlldMq3GnVF",
+          "versionId": "1"
+        },
+        "resourceType": "Observation",
+        "status": "final",
+        "subject": {
+          "reference": "urn:uuid:80fadea3-ab7c-492e-ac9d-bf8dc22f5afa"
+        },
+        "valueQuantity": {
+          "code": "/min",
+          "system": "http://unitsofmeasure.org",
+          "unit": "/min",
+          "value": 99
+        }
+      }
+    },
+    {
+      "fullUrl": "urn:uuid:ec6a0a37-1ea3-4102-883a-39f27847a92e",
+      "resource": {
+        "category": [
+          {
+            "coding": [
+              {
+                "code": "vital-signs",
+                "display": "vital-signs",
+                "system": "http://terminology.hl7.org/CodeSystem/observation-category"
+              }
+            ]
+          }
+        ],
+        "code": {
+          "coding": [
+            {
+              "code": "9279-1",
+              "display": "Respiratory rate",
+              "system": "http://loinc.org"
+            }
+          ],
+          "text": "Respiratory rate"
+        },
+        "effectiveDateTime": "2020-02-21T17:25:24+01:00",
+        "extension": [
+          {
+            "url": "http://hl7.org/fhir/StructureDefinition/narrativeLink",
+            "valueUrl": "urn:uuid:fc8a1633-94fe-4b3b-b260-57b80828a1a1#Observation-urn:uuid:ec6a0a37-1ea3-4102-883a-39f27847a92e"
+          }
+        ],
+        "issued": "2020-02-21T17:25:24.161+01:00",
+        "meta": {
+          "lastUpdated": "2024-09-20T16:04:56.758+02:00",
+          "source": "#yQdTMZlldMq3GnVF",
+          "versionId": "1"
+        },
+        "resourceType": "Observation",
+        "status": "final",
+        "subject": {
+          "reference": "urn:uuid:80fadea3-ab7c-492e-ac9d-bf8dc22f5afa"
+        },
+        "valueQuantity": {
+          "code": "/min",
+          "system": "http://unitsofmeasure.org",
+          "unit": "/min",
+          "value": 15
+        }
+      }
+    },
+    {
+      "fullUrl": "urn:uuid:ed30cbd1-a982-4ae4-84f9-bb3cf469a8fe",
+      "resource": {
+        "category": [
+          {
+            "coding": [
+              {
+                "code": "vital-signs",
+                "display": "vital-signs",
+                "system": "http://terminology.hl7.org/CodeSystem/observation-category"
+              }
+            ]
+          }
+        ],
+        "code": {
+          "coding": [
+            {
+              "code": "8310-5",
+              "display": "Body temperature",
+              "system": "http://loinc.org"
+            },
+            {
+              "code": "8331-1",
+              "display": "Oral temperature",
+              "system": "http://loinc.org"
+            }
+          ],
+          "text": "Body temperature"
+        },
+        "effectiveDateTime": "2020-03-09T17:25:24+01:00",
+        "extension": [
+          {
+            "url": "http://hl7.org/fhir/StructureDefinition/narrativeLink",
+            "valueUrl": "urn:uuid:fc8a1633-94fe-4b3b-b260-57b80828a1a1#Observation-urn:uuid:ed30cbd1-a982-4ae4-84f9-bb3cf469a8fe"
+          }
+        ],
+        "issued": "2020-03-09T17:25:24.161+01:00",
+        "meta": {
+          "lastUpdated": "2024-09-20T16:04:56.758+02:00",
+          "source": "#yQdTMZlldMq3GnVF",
+          "versionId": "1"
+        },
+        "resourceType": "Observation",
+        "status": "final",
+        "subject": {
+          "reference": "urn:uuid:80fadea3-ab7c-492e-ac9d-bf8dc22f5afa"
+        },
+        "valueQuantity": {
+          "code": "Cel",
+          "system": "http://unitsofmeasure.org",
+          "unit": "Cel",
+          "value": 38.882
+        }
+      }
+    },
+    {
+      "fullUrl": "urn:uuid:a5329571-1100-497c-add3-413dd14a36f4",
+      "resource": {
+        "category": [
+          {
+            "coding": [
+              {
+                "code": "vital-signs",
+                "display": "vital-signs",
+                "system": "http://terminology.hl7.org/CodeSystem/observation-category"
+              }
+            ]
+          }
+        ],
+        "code": {
+          "coding": [
+            {
+              "code": "9279-1",
+              "display": "Respiratory rate",
+              "system": "http://loinc.org"
+            }
+          ],
+          "text": "Respiratory rate"
+        },
+        "effectiveDateTime": "2020-03-09T17:25:24+01:00",
+        "extension": [
+          {
+            "url": "http://hl7.org/fhir/StructureDefinition/narrativeLink",
+            "valueUrl": "urn:uuid:fc8a1633-94fe-4b3b-b260-57b80828a1a1#Observation-urn:uuid:a5329571-1100-497c-add3-413dd14a36f4"
+          }
+        ],
+        "issued": "2020-03-09T17:25:24.161+01:00",
+        "meta": {
+          "lastUpdated": "2024-09-20T16:04:56.758+02:00",
+          "source": "#yQdTMZlldMq3GnVF",
+          "versionId": "1"
+        },
+        "resourceType": "Observation",
+        "status": "final",
+        "subject": {
+          "reference": "urn:uuid:80fadea3-ab7c-492e-ac9d-bf8dc22f5afa"
+        },
+        "valueQuantity": {
+          "code": "/min",
+          "system": "http://unitsofmeasure.org",
+          "unit": "/min",
+          "value": 20.868
+        }
+      }
+    },
+    {
+      "fullUrl": "urn:uuid:185baede-00ff-4cf6-a4b5-0dd886c3b258",
+      "resource": {
+        "category": [
+          {
+            "coding": [
+              {
+                "code": "vital-signs",
+                "display": "vital-signs",
+                "system": "http://terminology.hl7.org/CodeSystem/observation-category"
+              }
+            ]
+          }
+        ],
+        "code": {
+          "coding": [
+            {
+              "code": "8867-4",
+              "display": "Heart rate",
+              "system": "http://loinc.org"
+            }
+          ],
+          "text": "Heart rate"
+        },
+        "effectiveDateTime": "2020-03-09T17:25:24+01:00",
+        "extension": [
+          {
+            "url": "http://hl7.org/fhir/StructureDefinition/narrativeLink",
+            "valueUrl": "urn:uuid:fc8a1633-94fe-4b3b-b260-57b80828a1a1#Observation-urn:uuid:185baede-00ff-4cf6-a4b5-0dd886c3b258"
+          }
+        ],
+        "issued": "2020-03-09T17:25:24.161+01:00",
+        "meta": {
+          "lastUpdated": "2024-09-20T16:04:56.758+02:00",
+          "source": "#yQdTMZlldMq3GnVF",
+          "versionId": "1"
+        },
+        "resourceType": "Observation",
+        "status": "final",
+        "subject": {
+          "reference": "urn:uuid:80fadea3-ab7c-492e-ac9d-bf8dc22f5afa"
+        },
+        "valueQuantity": {
+          "code": "/min",
+          "system": "http://unitsofmeasure.org",
+          "unit": "/min",
+          "value": 92.331
+        }
+      }
+    },
+    {
+      "fullUrl": "urn:uuid:344c874f-71db-4652-ac97-c6272aacfa24",
+      "resource": {
+        "category": [
+          {
+            "coding": [
+              {
+                "code": "vital-signs",
+                "display": "vital-signs",
+                "system": "http://terminology.hl7.org/CodeSystem/observation-category"
+              }
+            ]
+          }
+        ],
+        "code": {
+          "coding": [
+            {
+              "code": "2708-6",
+              "display": "Oxygen saturation in Arterial blood",
+              "system": "http://loinc.org"
+            },
+            {
+              "code": "59408-5",
+              "display": "Oxygen saturation in Arterial blood by Pulse oximetry",
+              "system": "http://loinc.org"
+            }
+          ],
+          "text": "Oxygen saturation in Arterial blood"
+        },
+        "effectiveDateTime": "2020-03-09T17:25:24+01:00",
+        "extension": [
+          {
+            "url": "http://hl7.org/fhir/StructureDefinition/narrativeLink",
+            "valueUrl": "urn:uuid:fc8a1633-94fe-4b3b-b260-57b80828a1a1#Observation-urn:uuid:344c874f-71db-4652-ac97-c6272aacfa24"
+          }
+        ],
+        "issued": "2020-03-09T17:25:24.161+01:00",
+        "meta": {
+          "lastUpdated": "2024-09-20T16:04:56.758+02:00",
+          "source": "#yQdTMZlldMq3GnVF",
+          "versionId": "1"
+        },
+        "resourceType": "Observation",
+        "status": "final",
+        "subject": {
+          "reference": "urn:uuid:80fadea3-ab7c-492e-ac9d-bf8dc22f5afa"
+        },
+        "valueQuantity": {
+          "code": "%",
+          "system": "http://unitsofmeasure.org",
+          "unit": "%",
+          "value": 77.61
+        }
+      }
+    },
+    {
+      "fullUrl": "urn:uuid:cecc4b26-687c-45f3-8260-721f5363ab54",
+      "resource": {
+        "category": [
+          {
+            "coding": [
+              {
+                "code": "vital-signs",
+                "display": "vital-signs",
+                "system": "http://terminology.hl7.org/CodeSystem/observation-category"
+              }
+            ]
+          }
+        ],
+        "code": {
+          "coding": [
+            {
+              "code": "85354-9",
+              "display": "Blood Pressure",
+              "system": "http://loinc.org"
+            }
+          ],
+          "text": "Blood Pressure"
+        },
+        "component": [
+          {
+            "code": {
+              "coding": [
+                {
+                  "code": "8462-4",
+                  "display": "Diastolic Blood Pressure",
+                  "system": "http://loinc.org"
+                }
+              ],
+              "text": "Diastolic Blood Pressure"
+            },
+            "valueQuantity": {
+              "code": "mm[Hg]",
+              "system": "http://unitsofmeasure.org",
+              "unit": "mm[Hg]",
+              "value": 87
+            }
+          },
+          {
+            "code": {
+              "coding": [
+                {
+                  "code": "8480-6",
+                  "display": "Systolic Blood Pressure",
+                  "system": "http://loinc.org"
+                }
+              ],
+              "text": "Systolic Blood Pressure"
+            },
+            "valueQuantity": {
+              "code": "mm[Hg]",
+              "system": "http://unitsofmeasure.org",
+              "unit": "mm[Hg]",
+              "value": 111
+            }
+          }
+        ],
+        "effectiveDateTime": "2020-03-09T17:25:24+01:00",
+        "extension": [
+          {
+            "url": "http://hl7.org/fhir/StructureDefinition/narrativeLink",
+            "valueUrl": "urn:uuid:fc8a1633-94fe-4b3b-b260-57b80828a1a1#Observation-urn:uuid:cecc4b26-687c-45f3-8260-721f5363ab54"
+          }
+        ],
+        "issued": "2020-03-09T17:25:24.161+01:00",
+        "meta": {
+          "lastUpdated": "2024-09-20T16:04:56.758+02:00",
+          "source": "#yQdTMZlldMq3GnVF",
+          "versionId": "1"
+        },
+        "resourceType": "Observation",
+        "status": "final",
+        "subject": {
+          "reference": "urn:uuid:80fadea3-ab7c-492e-ac9d-bf8dc22f5afa"
+        }
+      }
+    },
+    {
+      "fullUrl": "urn:uuid:9fc41bf9-a607-47b7-84d5-1d313b55d4a4",
+      "resource": {
+        "category": [
+          {
+            "coding": [
+              {
+                "code": "vital-signs",
+                "display": "vital-signs",
+                "system": "http://terminology.hl7.org/CodeSystem/observation-category"
+              }
+            ]
+          }
+        ],
+        "code": {
+          "coding": [
+            {
+              "code": "29463-7",
+              "display": "Body Weight",
+              "system": "http://loinc.org"
+            }
+          ],
+          "text": "Body Weight"
+        },
+        "effectiveDateTime": "2020-03-09T17:25:24+01:00",
+        "extension": [
+          {
+            "url": "http://hl7.org/fhir/StructureDefinition/narrativeLink",
+            "valueUrl": "urn:uuid:fc8a1633-94fe-4b3b-b260-57b80828a1a1#Observation-urn:uuid:9fc41bf9-a607-47b7-84d5-1d313b55d4a4"
+          }
+        ],
+        "issued": "2020-03-09T17:25:24.161+01:00",
+        "meta": {
+          "lastUpdated": "2024-09-20T16:04:56.758+02:00",
+          "source": "#yQdTMZlldMq3GnVF",
+          "versionId": "1"
+        },
+        "resourceType": "Observation",
+        "status": "final",
+        "subject": {
+          "reference": "urn:uuid:80fadea3-ab7c-492e-ac9d-bf8dc22f5afa"
+        },
+        "valueQuantity": {
+          "code": "kg",
+          "system": "http://unitsofmeasure.org",
+          "unit": "kg",
+          "value": 80.9
+        }
+      }
+    },
+    {
+      "fullUrl": "urn:uuid:ad732e67-5ce4-4b6b-b208-85b61055c514",
+      "resource": {
+        "category": [
+          {
+            "coding": [
+              {
+                "code": "vital-signs",
+                "display": "vital-signs",
+                "system": "http://terminology.hl7.org/CodeSystem/observation-category"
+              }
+            ]
+          }
+        ],
+        "code": {
+          "coding": [
+            {
+              "code": "8302-2",
+              "display": "Body Height",
+              "system": "http://loinc.org"
+            }
+          ],
+          "text": "Body Height"
+        },
+        "effectiveDateTime": "2023-02-24T17:25:24+01:00",
+        "extension": [
+          {
+            "url": "http://hl7.org/fhir/StructureDefinition/narrativeLink",
+            "valueUrl": "urn:uuid:fc8a1633-94fe-4b3b-b260-57b80828a1a1#Observation-urn:uuid:ad732e67-5ce4-4b6b-b208-85b61055c514"
+          }
+        ],
+        "issued": "2023-02-24T17:25:24.161+01:00",
+        "meta": {
+          "lastUpdated": "2024-09-20T16:04:56.758+02:00",
+          "source": "#yQdTMZlldMq3GnVF",
+          "versionId": "1"
+        },
+        "resourceType": "Observation",
+        "status": "final",
+        "subject": {
+          "reference": "urn:uuid:80fadea3-ab7c-492e-ac9d-bf8dc22f5afa"
+        },
+        "valueQuantity": {
+          "code": "cm",
+          "system": "http://unitsofmeasure.org",
+          "unit": "cm",
+          "value": 180
+        }
+      }
+    },
+    {
+      "fullUrl": "urn:uuid:53f9425a-75e0-4fb4-b6ca-9a5a3465df54",
+      "resource": {
+        "category": [
+          {
+            "coding": [
+              {
+                "code": "vital-signs",
+                "display": "vital-signs",
+                "system": "http://terminology.hl7.org/CodeSystem/observation-category"
+              }
+            ]
+          }
+        ],
+        "code": {
+          "coding": [
+            {
+              "code": "72514-3",
+              "display": "Pain severity - 0-10 verbal numeric rating [Score] - Reported",
+              "system": "http://loinc.org"
+            }
+          ],
+          "text": "Pain severity - 0-10 verbal numeric rating [Score] - Reported"
+        },
+        "effectiveDateTime": "2023-02-24T17:25:24+01:00",
+        "extension": [
+          {
+            "url": "http://hl7.org/fhir/StructureDefinition/narrativeLink",
+            "valueUrl": "urn:uuid:fc8a1633-94fe-4b3b-b260-57b80828a1a1#Observation-urn:uuid:53f9425a-75e0-4fb4-b6ca-9a5a3465df54"
+          }
+        ],
+        "issued": "2023-02-24T17:25:24.161+01:00",
+        "meta": {
+          "lastUpdated": "2024-09-20T16:04:56.758+02:00",
+          "source": "#yQdTMZlldMq3GnVF",
+          "versionId": "1"
+        },
+        "resourceType": "Observation",
+        "status": "final",
+        "subject": {
+          "reference": "urn:uuid:80fadea3-ab7c-492e-ac9d-bf8dc22f5afa"
+        },
+        "valueQuantity": {
+          "code": "{score}",
+          "system": "http://unitsofmeasure.org",
+          "unit": "{score}",
+          "value": 2
+        }
+      }
+    },
+    {
+      "fullUrl": "urn:uuid:9f69e867-7803-484f-941d-d0d3efce29b6",
+      "resource": {
+        "category": [
+          {
+            "coding": [
+              {
+                "code": "vital-signs",
+                "display": "vital-signs",
+                "system": "http://terminology.hl7.org/CodeSystem/observation-category"
+              }
+            ]
+          }
+        ],
+        "code": {
+          "coding": [
+            {
+              "code": "29463-7",
+              "display": "Body Weight",
+              "system": "http://loinc.org"
+            }
+          ],
+          "text": "Body Weight"
+        },
+        "effectiveDateTime": "2023-02-24T17:25:24+01:00",
+        "extension": [
+          {
+            "url": "http://hl7.org/fhir/StructureDefinition/narrativeLink",
+            "valueUrl": "urn:uuid:fc8a1633-94fe-4b3b-b260-57b80828a1a1#Observation-urn:uuid:9f69e867-7803-484f-941d-d0d3efce29b6"
+          }
+        ],
+        "issued": "2023-02-24T17:25:24.161+01:00",
+        "meta": {
+          "lastUpdated": "2024-09-20T16:04:56.758+02:00",
+          "source": "#yQdTMZlldMq3GnVF",
+          "versionId": "1"
+        },
+        "resourceType": "Observation",
+        "status": "final",
+        "subject": {
+          "reference": "urn:uuid:80fadea3-ab7c-492e-ac9d-bf8dc22f5afa"
+        },
+        "valueQuantity": {
+          "code": "kg",
+          "system": "http://unitsofmeasure.org",
+          "unit": "kg",
+          "value": 85.8
+        }
+      }
+    },
+    {
+      "fullUrl": "urn:uuid:c6a70418-824c-48f5-89bb-73cb85d106db",
+      "resource": {
+        "category": [
+          {
+            "coding": [
+              {
+                "code": "vital-signs",
+                "display": "vital-signs",
+                "system": "http://terminology.hl7.org/CodeSystem/observation-category"
+              }
+            ]
+          }
+        ],
+        "code": {
+          "coding": [
+            {
+              "code": "39156-5",
+              "display": "Body Mass Index",
+              "system": "http://loinc.org"
+            }
+          ],
+          "text": "Body Mass Index"
+        },
+        "effectiveDateTime": "2023-02-24T17:25:24+01:00",
+        "extension": [
+          {
+            "url": "http://hl7.org/fhir/StructureDefinition/narrativeLink",
+            "valueUrl": "urn:uuid:fc8a1633-94fe-4b3b-b260-57b80828a1a1#Observation-urn:uuid:c6a70418-824c-48f5-89bb-73cb85d106db"
+          }
+        ],
+        "issued": "2023-02-24T17:25:24.161+01:00",
+        "meta": {
+          "lastUpdated": "2024-09-20T16:04:56.758+02:00",
+          "source": "#yQdTMZlldMq3GnVF",
+          "versionId": "1"
+        },
+        "resourceType": "Observation",
+        "status": "final",
+        "subject": {
+          "reference": "urn:uuid:80fadea3-ab7c-492e-ac9d-bf8dc22f5afa"
+        },
+        "valueQuantity": {
+          "code": "kg/m2",
+          "system": "http://unitsofmeasure.org",
+          "unit": "kg/m2",
+          "value": 26.48
+        }
+      }
+    },
+    {
+      "fullUrl": "urn:uuid:7d481dd7-6d5f-42f6-acad-dd2945ce54d1",
+      "resource": {
+        "category": [
+          {
+            "coding": [
+              {
+                "code": "vital-signs",
+                "display": "vital-signs",
+                "system": "http://terminology.hl7.org/CodeSystem/observation-category"
+              }
+            ]
+          }
+        ],
+        "code": {
+          "coding": [
+            {
+              "code": "85354-9",
+              "display": "Blood Pressure",
+              "system": "http://loinc.org"
+            }
+          ],
+          "text": "Blood Pressure"
+        },
+        "component": [
+          {
+            "code": {
+              "coding": [
+                {
+                  "code": "8462-4",
+                  "display": "Diastolic Blood Pressure",
+                  "system": "http://loinc.org"
+                }
+              ],
+              "text": "Diastolic Blood Pressure"
+            },
+            "valueQuantity": {
+              "code": "mm[Hg]",
+              "system": "http://unitsofmeasure.org",
+              "unit": "mm[Hg]",
+              "value": 86
+            }
+          },
+          {
+            "code": {
+              "coding": [
+                {
+                  "code": "8480-6",
+                  "display": "Systolic Blood Pressure",
+                  "system": "http://loinc.org"
+                }
+              ],
+              "text": "Systolic Blood Pressure"
+            },
+            "valueQuantity": {
+              "code": "mm[Hg]",
+              "system": "http://unitsofmeasure.org",
+              "unit": "mm[Hg]",
+              "value": 117
+            }
+          }
+        ],
+        "effectiveDateTime": "2023-02-24T17:25:24+01:00",
+        "extension": [
+          {
+            "url": "http://hl7.org/fhir/StructureDefinition/narrativeLink",
+            "valueUrl": "urn:uuid:fc8a1633-94fe-4b3b-b260-57b80828a1a1#Observation-urn:uuid:7d481dd7-6d5f-42f6-acad-dd2945ce54d1"
+          }
+        ],
+        "issued": "2023-02-24T17:25:24.161+01:00",
+        "meta": {
+          "lastUpdated": "2024-09-20T16:04:56.758+02:00",
+          "source": "#yQdTMZlldMq3GnVF",
+          "versionId": "1"
+        },
+        "resourceType": "Observation",
+        "status": "final",
+        "subject": {
+          "reference": "urn:uuid:80fadea3-ab7c-492e-ac9d-bf8dc22f5afa"
+        }
+      }
+    },
+    {
+      "fullUrl": "urn:uuid:916a3056-6641-48d0-b203-829d2abca5d1",
+      "resource": {
+        "category": [
+          {
+            "coding": [
+              {
+                "code": "vital-signs",
+                "display": "vital-signs",
+                "system": "http://terminology.hl7.org/CodeSystem/observation-category"
+              }
+            ]
+          }
+        ],
+        "code": {
+          "coding": [
+            {
+              "code": "8867-4",
+              "display": "Heart rate",
+              "system": "http://loinc.org"
+            }
+          ],
+          "text": "Heart rate"
+        },
+        "effectiveDateTime": "2023-02-24T17:25:24+01:00",
+        "extension": [
+          {
+            "url": "http://hl7.org/fhir/StructureDefinition/narrativeLink",
+            "valueUrl": "urn:uuid:fc8a1633-94fe-4b3b-b260-57b80828a1a1#Observation-urn:uuid:916a3056-6641-48d0-b203-829d2abca5d1"
+          }
+        ],
+        "issued": "2023-02-24T17:25:24.161+01:00",
+        "meta": {
+          "lastUpdated": "2024-09-20T16:04:56.758+02:00",
+          "source": "#yQdTMZlldMq3GnVF",
+          "versionId": "1"
+        },
+        "resourceType": "Observation",
+        "status": "final",
+        "subject": {
+          "reference": "urn:uuid:80fadea3-ab7c-492e-ac9d-bf8dc22f5afa"
+        },
+        "valueQuantity": {
+          "code": "/min",
+          "system": "http://unitsofmeasure.org",
+          "unit": "/min",
+          "value": 69
+        }
+      }
+    },
+    {
+      "fullUrl": "urn:uuid:40bc37c2-64bc-4636-b09a-d182241c8420",
+      "resource": {
+        "category": [
+          {
+            "coding": [
+              {
+                "code": "vital-signs",
+                "display": "vital-signs",
+                "system": "http://terminology.hl7.org/CodeSystem/observation-category"
+              }
+            ]
+          }
+        ],
+        "code": {
+          "coding": [
+            {
+              "code": "9279-1",
+              "display": "Respiratory rate",
+              "system": "http://loinc.org"
+            }
+          ],
+          "text": "Respiratory rate"
+        },
+        "effectiveDateTime": "2023-02-24T17:25:24+01:00",
+        "extension": [
+          {
+            "url": "http://hl7.org/fhir/StructureDefinition/narrativeLink",
+            "valueUrl": "urn:uuid:fc8a1633-94fe-4b3b-b260-57b80828a1a1#Observation-urn:uuid:40bc37c2-64bc-4636-b09a-d182241c8420"
+          }
+        ],
+        "issued": "2023-02-24T17:25:24.161+01:00",
+        "meta": {
+          "lastUpdated": "2024-09-20T16:04:56.758+02:00",
+          "source": "#yQdTMZlldMq3GnVF",
+          "versionId": "1"
+        },
+        "resourceType": "Observation",
+        "status": "final",
+        "subject": {
+          "reference": "urn:uuid:80fadea3-ab7c-492e-ac9d-bf8dc22f5afa"
+        },
+        "valueQuantity": {
+          "code": "/min",
+          "system": "http://unitsofmeasure.org",
+          "unit": "/min",
+          "value": 16
+        }
+      }
+    },
+    {
+      "fullUrl": "urn:uuid:7516afe6-8a8d-4abe-ade6-308416c90417",
+      "resource": {
+        "abatementDateTime": "2018-02-16T17:25:24+01:00",
+        "clinicalStatus": {
+          "coding": [
+            {
+              "code": "resolved",
+              "system": "http://terminology.hl7.org/CodeSystem/condition-clinical"
+            }
+          ]
+        },
+        "code": {
+          "coding": [
+            {
+              "code": "62106007",
+              "display": "Concussion with no loss of consciousness",
+              "system": "http://snomed.info/sct"
+            }
+          ],
+          "text": "Concussion with no loss of consciousness"
+        },
+        "extension": [
+          {
+            "url": "http://hl7.org/fhir/StructureDefinition/narrativeLink",
+            "valueUrl": "urn:uuid:fc8a1633-94fe-4b3b-b260-57b80828a1a1#Condition-urn:uuid:7516afe6-8a8d-4abe-ade6-308416c90417"
+          }
+        ],
+        "meta": {
+          "lastUpdated": "2024-09-20T16:04:56.758+02:00",
+          "source": "#yQdTMZlldMq3GnVF",
+          "versionId": "1"
+        },
+        "onsetDateTime": "2018-01-17T17:25:24+01:00",
+        "recordedDate": "2018-01-17T17:25:24+01:00",
+        "resourceType": "Condition",
+        "subject": {
+          "reference": "urn:uuid:80fadea3-ab7c-492e-ac9d-bf8dc22f5afa"
+        },
+        "verificationStatus": {
+          "coding": [
+            {
+              "code": "confirmed",
+              "system": "http://terminology.hl7.org/CodeSystem/condition-ver-status"
+            }
+          ]
+        }
+      }
+    },
+    {
+      "fullUrl": "urn:uuid:640bc168-d483-43a3-92b6-ea4cba18c031",
+      "resource": {
+        "abatementDateTime": "2019-12-12T17:25:24+01:00",
+        "clinicalStatus": {
+          "coding": [
+            {
+              "code": "resolved",
+              "system": "http://terminology.hl7.org/CodeSystem/condition-clinical"
+            }
+          ]
+        },
+        "code": {
+          "coding": [
+            {
+              "code": "444814009",
+              "display": "Viral sinusitis (disorder)",
+              "system": "http://snomed.info/sct"
+            }
+          ],
+          "text": "Viral sinusitis (disorder)"
+        },
+        "extension": [
+          {
+            "url": "http://hl7.org/fhir/StructureDefinition/narrativeLink",
+            "valueUrl": "urn:uuid:fc8a1633-94fe-4b3b-b260-57b80828a1a1#Condition-urn:uuid:640bc168-d483-43a3-92b6-ea4cba18c031"
+          }
+        ],
+        "meta": {
+          "lastUpdated": "2024-09-20T16:04:56.758+02:00",
+          "source": "#yQdTMZlldMq3GnVF",
+          "versionId": "1"
+        },
+        "onsetDateTime": "2019-12-05T17:25:24+01:00",
+        "recordedDate": "2019-12-05T17:25:24+01:00",
+        "resourceType": "Condition",
+        "subject": {
+          "reference": "urn:uuid:80fadea3-ab7c-492e-ac9d-bf8dc22f5afa"
+        },
+        "verificationStatus": {
+          "coding": [
+            {
+              "code": "confirmed",
+              "system": "http://terminology.hl7.org/CodeSystem/condition-ver-status"
+            }
+          ]
+        }
+      }
+    },
+    {
+      "fullUrl": "urn:uuid:9e992233-117d-4c3f-9734-11608d1bfef5",
+      "resource": {
+        "abatementDateTime": "2020-04-03T20:02:24+02:00",
+        "clinicalStatus": {
+          "coding": [
+            {
+              "code": "resolved",
+              "system": "http://terminology.hl7.org/CodeSystem/condition-clinical"
+            }
+          ]
+        },
+        "code": {
+          "coding": [
+            {
+              "code": "84229001",
+              "display": "Fatigue (finding)",
+              "system": "http://snomed.info/sct"
+            }
+          ],
+          "text": "Fatigue (finding)"
+        },
+        "extension": [
+          {
+            "url": "http://hl7.org/fhir/StructureDefinition/narrativeLink",
+            "valueUrl": "urn:uuid:fc8a1633-94fe-4b3b-b260-57b80828a1a1#Condition-urn:uuid:9e992233-117d-4c3f-9734-11608d1bfef5"
+          }
+        ],
+        "meta": {
+          "lastUpdated": "2024-09-20T16:04:56.758+02:00",
+          "source": "#yQdTMZlldMq3GnVF",
+          "versionId": "1"
+        },
+        "onsetDateTime": "2020-03-09T17:25:24+01:00",
+        "recordedDate": "2020-03-09T17:25:24+01:00",
+        "resourceType": "Condition",
+        "subject": {
+          "reference": "urn:uuid:80fadea3-ab7c-492e-ac9d-bf8dc22f5afa"
+        },
+        "verificationStatus": {
+          "coding": [
+            {
+              "code": "confirmed",
+              "system": "http://terminology.hl7.org/CodeSystem/condition-ver-status"
+            }
+          ]
+        }
+      }
+    },
+    {
+      "fullUrl": "urn:uuid:d051f023-8a66-456b-b624-df8fc7178974",
+      "resource": {
+        "abatementDateTime": "2020-04-03T20:02:24+02:00",
+        "clinicalStatus": {
+          "coding": [
+            {
+              "code": "resolved",
+              "system": "http://terminology.hl7.org/CodeSystem/condition-clinical"
+            }
+          ]
+        },
+        "code": {
+          "coding": [
+            {
+              "code": "267060006",
+              "display": "Diarrhea symptom (finding)",
+              "system": "http://snomed.info/sct"
+            }
+          ],
+          "text": "Diarrhea symptom (finding)"
+        },
+        "extension": [
+          {
+            "url": "http://hl7.org/fhir/StructureDefinition/narrativeLink",
+            "valueUrl": "urn:uuid:fc8a1633-94fe-4b3b-b260-57b80828a1a1#Condition-urn:uuid:d051f023-8a66-456b-b624-df8fc7178974"
+          }
+        ],
+        "meta": {
+          "lastUpdated": "2024-09-20T16:04:56.758+02:00",
+          "source": "#yQdTMZlldMq3GnVF",
+          "versionId": "1"
+        },
+        "onsetDateTime": "2020-03-09T17:25:24+01:00",
+        "recordedDate": "2020-03-09T17:25:24+01:00",
+        "resourceType": "Condition",
+        "subject": {
+          "reference": "urn:uuid:80fadea3-ab7c-492e-ac9d-bf8dc22f5afa"
+        },
+        "verificationStatus": {
+          "coding": [
+            {
+              "code": "confirmed",
+              "system": "http://terminology.hl7.org/CodeSystem/condition-ver-status"
+            }
+          ]
+        }
+      }
+    },
+    {
+      "fullUrl": "urn:uuid:190795cc-3b61-4c48-9f09-82f6e437eb6d",
+      "resource": {
+        "abatementDateTime": "2020-04-03T20:02:24+02:00",
+        "clinicalStatus": {
+          "coding": [
+            {
+              "code": "resolved",
+              "system": "http://terminology.hl7.org/CodeSystem/condition-clinical"
+            }
+          ]
+        },
+        "code": {
+          "coding": [
+            {
+              "code": "386661006",
+              "display": "Fever (finding)",
+              "system": "http://snomed.info/sct"
+            }
+          ],
+          "text": "Fever (finding)"
+        },
+        "extension": [
+          {
+            "url": "http://hl7.org/fhir/StructureDefinition/narrativeLink",
+            "valueUrl": "urn:uuid:fc8a1633-94fe-4b3b-b260-57b80828a1a1#Condition-urn:uuid:190795cc-3b61-4c48-9f09-82f6e437eb6d"
+          }
+        ],
+        "meta": {
+          "lastUpdated": "2024-09-20T16:04:56.758+02:00",
+          "source": "#yQdTMZlldMq3GnVF",
+          "versionId": "1"
+        },
+        "onsetDateTime": "2020-03-09T17:25:24+01:00",
+        "recordedDate": "2020-03-09T17:25:24+01:00",
+        "resourceType": "Condition",
+        "subject": {
+          "reference": "urn:uuid:80fadea3-ab7c-492e-ac9d-bf8dc22f5afa"
+        },
+        "verificationStatus": {
+          "coding": [
+            {
+              "code": "confirmed",
+              "system": "http://terminology.hl7.org/CodeSystem/condition-ver-status"
+            }
+          ]
+        }
+      }
+    },
+    {
+      "fullUrl": "urn:uuid:af5a0ae6-9d7f-4a2c-810b-c253f4831034",
+      "resource": {
+        "abatementDateTime": "2020-03-09T19:02:24+01:00",
+        "clinicalStatus": {
+          "coding": [
+            {
+              "code": "resolved",
+              "system": "http://terminology.hl7.org/CodeSystem/condition-clinical"
+            }
+          ]
+        },
+        "code": {
+          "coding": [
+            {
+              "code": "840544004",
+              "display": "Suspected COVID-19",
+              "system": "http://snomed.info/sct"
+            }
+          ],
+          "text": "Suspected COVID-19"
+        },
+        "extension": [
+          {
+            "url": "http://hl7.org/fhir/StructureDefinition/narrativeLink",
+            "valueUrl": "urn:uuid:fc8a1633-94fe-4b3b-b260-57b80828a1a1#Condition-urn:uuid:af5a0ae6-9d7f-4a2c-810b-c253f4831034"
+          }
+        ],
+        "meta": {
+          "lastUpdated": "2024-09-20T16:04:56.758+02:00",
+          "source": "#yQdTMZlldMq3GnVF",
+          "versionId": "1"
+        },
+        "onsetDateTime": "2020-03-09T17:25:24+01:00",
+        "recordedDate": "2020-03-09T17:25:24+01:00",
+        "resourceType": "Condition",
+        "subject": {
+          "reference": "urn:uuid:80fadea3-ab7c-492e-ac9d-bf8dc22f5afa"
+        },
+        "verificationStatus": {
+          "coding": [
+            {
+              "code": "confirmed",
+              "system": "http://terminology.hl7.org/CodeSystem/condition-ver-status"
+            }
+          ]
+        }
+      }
+    },
+    {
+      "fullUrl": "urn:uuid:6f7ce40f-e570-4b27-b0e5-0e67e2b4f803",
+      "resource": {
+        "abatementDateTime": "2020-04-03T20:02:24+02:00",
+        "clinicalStatus": {
+          "coding": [
+            {
+              "code": "resolved",
+              "system": "http://terminology.hl7.org/CodeSystem/condition-clinical"
+            }
+          ]
+        },
+        "code": {
+          "coding": [
+            {
+              "code": "840539006",
+              "display": "COVID-19",
+              "system": "http://snomed.info/sct"
+            }
+          ],
+          "text": "COVID-19"
+        },
+        "extension": [
+          {
+            "url": "http://hl7.org/fhir/StructureDefinition/narrativeLink",
+            "valueUrl": "urn:uuid:fc8a1633-94fe-4b3b-b260-57b80828a1a1#Condition-urn:uuid:6f7ce40f-e570-4b27-b0e5-0e67e2b4f803"
+          }
+        ],
+        "meta": {
+          "lastUpdated": "2024-09-20T16:04:56.758+02:00",
+          "source": "#yQdTMZlldMq3GnVF",
+          "versionId": "1"
+        },
+        "onsetDateTime": "2020-03-09T19:02:24+01:00",
+        "recordedDate": "2020-03-09T19:02:24+01:00",
+        "resourceType": "Condition",
+        "subject": {
+          "reference": "urn:uuid:80fadea3-ab7c-492e-ac9d-bf8dc22f5afa"
+        },
+        "verificationStatus": {
+          "coding": [
+            {
+              "code": "confirmed",
+              "system": "http://terminology.hl7.org/CodeSystem/condition-ver-status"
+            }
+          ]
+        }
+      }
+    },
+    {
+      "fullUrl": "urn:uuid:d5247b98-2eb5-4ae9-9e3f-92e791412bb1",
+      "resource": {
+        "abatementDateTime": "2022-07-13T18:25:24+02:00",
+        "clinicalStatus": {
+          "coding": [
+            {
+              "code": "resolved",
+              "system": "http://terminology.hl7.org/CodeSystem/condition-clinical"
+            }
+          ]
+        },
+        "code": {
+          "coding": [
+            {
+              "code": "444814009",
+              "display": "Viral sinusitis (disorder)",
+              "system": "http://snomed.info/sct"
+            }
+          ],
+          "text": "Viral sinusitis (disorder)"
+        },
+        "extension": [
+          {
+            "url": "http://hl7.org/fhir/StructureDefinition/narrativeLink",
+            "valueUrl": "urn:uuid:fc8a1633-94fe-4b3b-b260-57b80828a1a1#Condition-urn:uuid:d5247b98-2eb5-4ae9-9e3f-92e791412bb1"
+          }
+        ],
+        "meta": {
+          "lastUpdated": "2024-09-20T16:04:56.758+02:00",
+          "source": "#yQdTMZlldMq3GnVF",
+          "versionId": "1"
+        },
+        "onsetDateTime": "2022-07-06T18:25:24+02:00",
+        "recordedDate": "2022-07-06T18:25:24+02:00",
+        "resourceType": "Condition",
+        "subject": {
+          "reference": "urn:uuid:80fadea3-ab7c-492e-ac9d-bf8dc22f5afa"
+        },
+        "verificationStatus": {
+          "coding": [
+            {
+              "code": "confirmed",
+              "system": "http://terminology.hl7.org/CodeSystem/condition-ver-status"
+            }
+          ]
+        }
+      }
+    },
+    {
+      "fullUrl": "urn:uuid:f74441fc-5e2c-462d-a5fa-01bb2f1fcf23",
+      "resource": {
+        "abatementDateTime": "2023-08-03T18:41:24+02:00",
+        "clinicalStatus": {
+          "coding": [
+            {
+              "code": "resolved",
+              "system": "http://terminology.hl7.org/CodeSystem/condition-clinical"
+            }
+          ]
+        },
+        "code": {
+          "coding": [
+            {
+              "code": "370247008",
+              "display": "Facial laceration",
+              "system": "http://snomed.info/sct"
+            }
+          ],
+          "text": "Facial laceration"
+        },
+        "extension": [
+          {
+            "url": "http://hl7.org/fhir/StructureDefinition/narrativeLink",
+            "valueUrl": "urn:uuid:fc8a1633-94fe-4b3b-b260-57b80828a1a1#Condition-urn:uuid:f74441fc-5e2c-462d-a5fa-01bb2f1fcf23"
+          }
+        ],
+        "meta": {
+          "lastUpdated": "2024-09-20T16:04:56.758+02:00",
+          "source": "#yQdTMZlldMq3GnVF",
+          "versionId": "1"
+        },
+        "onsetDateTime": "2023-07-20T18:25:24+02:00",
+        "recordedDate": "2023-07-20T18:25:24+02:00",
+        "resourceType": "Condition",
+        "subject": {
+          "reference": "urn:uuid:80fadea3-ab7c-492e-ac9d-bf8dc22f5afa"
+        },
+        "verificationStatus": {
+          "coding": [
+            {
+              "code": "confirmed",
+              "system": "http://terminology.hl7.org/CodeSystem/condition-ver-status"
+            }
+          ]
+        }
+      }
+    },
+    {
+      "fullUrl": "urn:uuid:3afdcba3-5262-4bde-8122-905ee6a40e44",
+      "resource": {
+        "activity": [
+          {
+            "detail": {
+              "code": {
+                "coding": [
+                  {
+                    "code": "160670007",
+                    "display": "Diabetic diet",
+                    "system": "http://snomed.info/sct"
+                  }
+                ],
+                "text": "Diabetic diet"
+              },
+              "location": {
+                "display": "UMASS MEMORIAL MEDICAL GROUP, INC."
+              },
+              "status": "in-progress"
+            }
+          },
+          {
+            "detail": {
+              "code": {
+                "coding": [
+                  {
+                    "code": "229065009",
+                    "display": "Exercise therapy",
+                    "system": "http://snomed.info/sct"
+                  }
+                ],
+                "text": "Exercise therapy"
+              },
+              "location": {
+                "display": "UMASS MEMORIAL MEDICAL GROUP, INC."
+              },
+              "status": "in-progress"
+            }
+          }
+        ],
+        "addresses": [
+          {
+            "reference": "urn:uuid:8eac2b71-c3d3-4e36-9af8-a13114121ccf"
+          }
+        ],
+        "category": [
+          {
+            "coding": [
+              {
+                "code": "698360004",
+                "display": "Diabetes self management plan",
+                "system": "http://snomed.info/sct"
+              }
+            ],
+            "text": "Diabetes self management plan"
+          }
+        ],
+        "extension": [
+          {
+            "url": "http://hl7.org/fhir/StructureDefinition/narrativeLink",
+            "valueUrl": "urn:uuid:fc8a1633-94fe-4b3b-b260-57b80828a1a1#CarePlan-urn:uuid:3afdcba3-5262-4bde-8122-905ee6a40e44"
+          }
+        ],
+        "intent": "order",
+        "meta": {
+          "lastUpdated": "2024-09-20T16:04:56.758+02:00",
+          "source": "#yQdTMZlldMq3GnVF",
+          "versionId": "1"
+        },
+        "period": {
+          "start": "2023-02-24T17:25:24+01:00"
+        },
+        "resourceType": "CarePlan",
+        "status": "active",
+        "subject": {
+          "reference": "urn:uuid:80fadea3-ab7c-492e-ac9d-bf8dc22f5afa"
+        },
+        "text": {
+          "div": "<div xmlns=\"http://www.w3.org/1999/xhtml\">Care Plan for Diabetes self management plan.<br/>Activities: <ul><li>Diabetes self management plan</li><li>Diabetes self management plan</li></ul><br/>Care plan is meant to treat Prediabetes.</div>",
+          "status": "generated"
+        }
+      }
+    },
+    {
+      "fullUrl": "urn:uuid:801f7b15-de38-423c-a2d2-8e05b7ef0eca",
+      "resource": {
+        "address": [
+          {
+            "city": "Nicosia",
+            "country": "CY",
+            "line": [
+              "1 University Avenue"
+            ],
+            "postalCode": "2109"
+          }
+        ],
+        "name": "eHealthLab - University of Cyprus",
+        "resourceType": "Organization"
+      }
+    }
+  ],
+  "identifier": {
+    "system": "urn:ietf:rfc:4122",
+    "value": "02b02e1c-eed0-4f10-86a9-29fdc446280f"
+  },
+  "resourceType": "Bundle",
+  "timestamp": "2024-09-20T16:05:03.814+02:00",
+  "type": "document"
+}
