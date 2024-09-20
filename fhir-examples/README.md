@@ -12,7 +12,7 @@
 | Directory    | File naming convention | Description                                                                                                                    |
 |--------------|------------------------|--------------------------------------------------------------------------------------------------------------------------------|
 | fhir-bundles | $ID-bundle.json        | original bundles created from the fhir-examples project                                                                        |
-| ips-fhir     | $ID-ips.json           | generated IPS files. Note that the only the top level composition contains the narrative (HTML representation in text element) |
+| ips-fhir     | $ID-ips.json           | generated IPS files. Note that only the top level composition contains the narrative (HTML representation in text element) |
 | ips-markdown | $ID-ips.md             | super simple markdown version                                                                                                  |
 
 
