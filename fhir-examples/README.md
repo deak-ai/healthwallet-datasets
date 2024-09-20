@@ -4,7 +4,7 @@
 * Dataset generated from https://github.com/google/fhir-examples using Synthea
 * Data uploaded to a HAPI FHIR server (generating new numerical IDs)
 * Generated IPS using $summary command on HAPI FHIR https://hapifhir.io/hapi-fhir/docs/server_jpa/ips.html
-* Created super simple IPS markdown representation only containing patient sex, age, allergies, medications and conditions
+* Created super simple IPS markdown representation only containing patient sex, age, allergies, medications and problems
 
 
 # Directory structure
