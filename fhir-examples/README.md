@@ -9,9 +9,10 @@
 
 # Directory structure
 
-|| Directory || File naming convention || Description ||
-| fhir-bundles | <id>-bundle.json |  original bundles created from the fhir-examples project |
-| ips-fhir | <id>-ips.json  | generated IPS files. Note that the only the top level composition contains the narrative (HTML representation in text element) |
-| ips-markdown | <id>-ips.md | super simple markdown version |
+| Directory    | File naming convention | Description                                                                                                                    |
+|--------------|------------------------|--------------------------------------------------------------------------------------------------------------------------------|
+| fhir-bundles | <id>-bundle.json       | original bundles created from the fhir-examples project                                                                        |
+| ips-fhir     | <id>-ips.json          | generated IPS files. Note that the only the top level composition contains the narrative (HTML representation in text element) |
+| ips-markdown | <id>-ips.md            | super simple markdown version                                                                                                  |
 
 
